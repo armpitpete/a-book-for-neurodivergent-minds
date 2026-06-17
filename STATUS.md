@@ -2,7 +2,7 @@
 
 ## Current version
 
-v8.5 — 27 checked
+v8.6 — 28 planned
 
 ## Current decision
 
@@ -31,9 +31,11 @@ Chapter numbering needs a later sequence check.
 - 25 checked
 - 26 checked
 - 27 checked
+- 28 planned
+- 28 briefed
 
 ## Next
 
-1. Plan 28
-2. Brief 28
-3. Draft 28
+1. Draft 28
+2. Check 28 on its own
+3. Check 28 against 27 and 29

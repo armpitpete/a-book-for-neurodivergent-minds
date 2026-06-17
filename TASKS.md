@@ -2,10 +2,9 @@
 
 ## Next
 
-1. Review structure
-2. Begin Chapter 1 cleanup
-3. Expand supplement modules 7 to 12
-4. Safety wording pass for Chapter 6
+1. Begin Chapter 1 cleanup
+2. Expand supplement modules 7 to 12
+3. Safety wording pass for Chapter 6
 
 ## Done
 
@@ -35,3 +34,4 @@
 - Standalone chapter check added
 - Clean working chapter files added
 - All 12 supplement module placeholders added
+- Structure review v0.6 added

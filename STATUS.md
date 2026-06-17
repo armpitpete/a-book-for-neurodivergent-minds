@@ -2,7 +2,7 @@
 
 ## Current version
 
-v3.2 — 10 planned
+v3.3 — 10 drafted
 
 ## Current decision
 
@@ -42,12 +42,13 @@ Each chapter must work on its own.
 - 9 checked
 - 10 planned
 - 10 briefed
+- 10 drafted
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added
 
 ## Next
 
-1. Draft 10
-2. Check 10 on its own
-3. Check 10 against 4 and 18
+1. Check 10 on its own
+2. Check 10 against 4 and 18
+3. Clean 10 if needed

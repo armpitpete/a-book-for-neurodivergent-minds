@@ -1,0 +1,22 @@
+# Source file list
+
+- `00_Admin/BOOK_POSITIONING_NOTE_v1.0.md` — 3403 bytes
+- `00_Admin/BOOK_STRUCTURE_BLUEPRINT_v1.0.md` — 3654 bytes
+- `00_Admin/CHAPTER_TEMPLATE_v1.0.md` — 2898 bytes
+- `00_Admin/CONTENT_BOUNDARIES_AND_NON_GOALS_v1.0.md` — 3378 bytes
+- `00_Admin/READER_DEFINITION_v1.0.md` — 3593 bytes
+- `00_Admin/VOICE_AND_REGISTER_RULES_v1.0.md` — 3128 bytes
+- `00_Admin/WORKING_TABLE_OF_CONTENTS_v1.0.md` — 3001 bytes
+- `01_Draft_Chapters/01_Start_Here_When_Everything_Feels_Like_Too_Much_v1.1.md` — 9930 bytes
+- `01_Draft_Chapters/04_Overload_v1.1.md` — 10054 bytes
+- `01_Draft_Chapters/05_Shutdown_v1.0.md` — 11171 bytes
+- `01_Draft_Chapters/05_Shutdown_v1.1.md` — 11315 bytes
+- `01_Draft_Chapters/06_Meltdown_v1.0.md` — 12785 bytes
+- `01_Draft_Chapters/06_Meltdown_v1.1.md` — 7168 bytes
+- `01_Draft_Chapters/Meltdown_Review_v1.0.md` — 1145 bytes
+- `02_Reviews/Test_Chapter_Review_v1.0.md` — 4305 bytes
+- `A Book for Neurodivergent Minds Story Index.md` — 1461 bytes
+- `A_Book_for_Neurodivergent_Minds_Tool_Index.md` — 8838 bytes
+- `Chapter-Module Template.md` — 2740 bytes
+- `Project Review (E5 + Merrin Matrix) — v1.md` — 4883 bytes
+- `README - Start Here.md` — 1572 bytes

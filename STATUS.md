@@ -2,25 +2,28 @@
 
 ## Current version
 
-v0.1 — structure lock
+v0.1 — structure correction
 
 ## Current decision
 
-The first version is a 12-module practical manual.
+The project is a 35-chapter main book with a 12-module tool supplement.
 
-The larger expanded version is parked for a later edition.
+The supplement supports the book. It does not replace it.
 
 ## Done
 
 - GitHub repo created
-- `BOOK_LOCK.md` added
-- Initial status file added
+- Lock file corrected
+- Source manifest added
+- Source file list added
+- Sort plan added
+- Module template added
 
 ## Next
 
-1. Import current draft files
-2. Move old versions into archive
-3. Convert Chapter 1 into Module 1 format
-4. Convert Overload into Noise Budget
-5. Convert Shutdown into Quiet Handover
-6. Convert Meltdown into crisis-support module
+1. Create main book folder
+2. Create supplement folder
+3. Import current draft files
+4. Put old versions in archive
+5. Map existing drafts to the 35-chapter plan
+6. Map tool material to the 12-module supplement

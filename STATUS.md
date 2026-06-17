@@ -2,7 +2,7 @@
 
 ## Current version
 
-v0.7 — structure reviewed
+v0.8 — Chapter 1 cleaned draft
 
 ## Current decision
 
@@ -39,9 +39,11 @@ Each chapter must also work as a standalone reading unit.
 - Clean working chapter files added
 - All 12 supplement module placeholders added
 - Structure review v0.6 added
+- Chapter 1 cleaned draft added
+- Chapter 1 cleanup note added
 
 ## Next
 
-1. Begin Chapter 1 cleanup
-2. Expand supplement modules 7 to 12
-3. Safety wording pass for Chapter 6
+1. Expand supplement modules 7 to 12
+2. Safety wording pass for Chapter 6
+3. Clean Chapter 4 Overload

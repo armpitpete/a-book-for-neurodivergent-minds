@@ -2,7 +2,7 @@
 
 ## Current version
 
-v9.1 — 29 checked and cleaned
+v10.0 — 30 drafted
 
 ## Current decision
 
@@ -36,9 +36,12 @@ Chapter numbering needs a later sequence check.
 - 29 drafted
 - 29 checked
 - 29 cleaned
+- 30 planned
+- 30 briefed
+- 30 drafted
 
 ## Next
 
-1. Draft Chapter 30 — Building a Life That Does Not Keep Breaking You
-2. Check Chapter 30 on its own
-3. Check Chapter 30 against Chapters 29 and 31 when Chapter 31 exists
+1. Check Chapter 30 on its own
+2. Check Chapter 30 against Chapter 29
+3. Clean Chapter 30 if needed

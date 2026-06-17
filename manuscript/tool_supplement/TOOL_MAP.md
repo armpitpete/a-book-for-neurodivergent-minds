@@ -16,12 +16,12 @@ This map connects the imported tool index to the 12-module supplement.
 | 4 | Repair in Four Lines | In tool index |
 | 5 | First Stupid Step | In tool index |
 | 6 | Switch the Door | In tool index |
-| 7 | One-Thing Ticket | Needs expansion |
-| 8 | Noise Budget | Needs expansion |
-| 9 | Truth Without Explaining | Needs expansion |
-| 10 | Aftercare Loop | Needs expansion |
-| 11 | The Misread Map | Needs expansion |
-| 12 | The Quiet Handover | Needs expansion |
+| 7 | One-Thing Ticket | Expanded draft v0.1 |
+| 8 | Noise Budget | Expanded draft v0.1 |
+| 9 | Truth Without Explaining | Expanded draft v0.1 |
+| 10 | Aftercare Loop | Expanded draft v0.1 |
+| 11 | The Misread Map | Expanded draft v0.1 |
+| 12 | The Quiet Handover | Expanded draft v0.1 |
 
 ## Rule
 

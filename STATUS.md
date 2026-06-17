@@ -2,7 +2,7 @@
 
 ## Current version
 
-v0.4 — archive and mapping pass
+v0.5 — working manuscript files started
 
 ## Current decision
 
@@ -36,10 +36,11 @@ Each chapter must also work as a standalone reading unit.
 - Chapter map added
 - Tool map added
 - Standalone chapter check added
+- Clean working chapter files added
+- First supplement module placeholder added
 
 ## Next
 
-1. Create clean working chapter files
-2. Create supplement module placeholders
-3. Review structure
-4. Begin Chapter 1 cleanup
+1. Create remaining supplement module placeholders
+2. Review structure
+3. Begin Chapter 1 cleanup

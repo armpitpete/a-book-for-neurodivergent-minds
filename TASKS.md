@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Draft 7
-2. Check 7 on its own
-3. Check 7 against 4 to 6
+1. Check 7 on its own
+2. Check 7 against 4 to 6
+3. Clean 7 if needed
 
 ## Done
 
@@ -24,6 +24,7 @@
 - 6 reviewed
 - 7 planned
 - 7 briefed
+- 7 drafted
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added

@@ -2,7 +2,7 @@
 
 ## Current version
 
-v1.6 — Chapter sequence review complete
+v1.7 — next section planned
 
 ## Current decision
 
@@ -27,9 +27,11 @@ Each chapter must also work as a standalone reading unit.
 - Supplement modules created and reviewed
 - Module 11 wording clarified
 - Chapter sequence review added
+- Next plan added
+- Brief for 2 added
 
 ## Next
 
-1. Plan next main-book chapter
-2. Choose next chapter to clean
-3. Create next-chapter brief
+1. Draft 2
+2. Check 2 on its own
+3. Check 2 against 1 and 4

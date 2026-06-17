@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Draft 8
-2. Check 8 on its own
-3. Check 8 against 2 and 7
+1. Check 8 on its own
+2. Check 8 against 2 and 7
+3. Clean 8 if needed
 
 ## Done
 
@@ -28,6 +28,7 @@
 - 7 checked
 - 8 planned
 - 8 briefed
+- 8 drafted
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added

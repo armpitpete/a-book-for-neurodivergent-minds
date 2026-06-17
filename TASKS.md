@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Review supplement modules 7 to 12 for ND and YP readability
-2. Clean Chapter 5 Shutdown
-3. Review Chapter 1 and Chapter 4 overlap
+1. Clean Chapter 5 Shutdown
+2. Review Chapter 1 and Chapter 4 overlap
+3. Make Module 11 intent and impact wording plainer
 
 ## Done
 
@@ -44,3 +44,4 @@
 - Chapter 6 safety pass note added
 - Chapter 4 cleaned draft added
 - Chapter 4 cleanup note added
+- Supplement modules 7 to 12 ND and YP review added

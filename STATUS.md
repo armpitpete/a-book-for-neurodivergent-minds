@@ -2,7 +2,7 @@
 
 ## Current version
 
-v0.3 — current source drafts imported
+v0.4 — archive and mapping pass
 
 ## Current decision
 
@@ -32,10 +32,14 @@ Each chapter must also work as a standalone reading unit.
 - Main book working TOC added
 - Tool supplement spine added
 - Draft map added
+- Old version index added
+- Chapter map added
+- Tool map added
+- Standalone chapter check added
 
 ## Next
 
-1. Put old versions in archive
-2. Map existing files to the 35-chapter plan
-3. Map tool material to the 12-module supplement
-4. Apply standalone chapter check
+1. Create clean working chapter files
+2. Create supplement module placeholders
+3. Review structure
+4. Begin Chapter 1 cleanup

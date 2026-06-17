@@ -2,7 +2,7 @@
 
 ## Current version
 
-v4.8 — 15 drafted
+v4.9 — 15 checked
 
 ## Current decision
 
@@ -67,12 +67,13 @@ Chapter numbering needs a later sequence check.
 - 15 planned
 - 15 briefed
 - 15 drafted
+- 15 checked
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added
 
 ## Next
 
-1. Check 15 on its own
-2. Check 15 against 7, 9, and 12
-3. Clean 15 if needed
+1. Plan 16
+2. Brief 16
+3. Draft 16

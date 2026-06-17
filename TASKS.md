@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Check 3 on its own
-2. Check 3 against 2 and 4
-3. Clean 3 if needed
+1. Plan 7
+2. Brief 7
+3. Draft 7
 
 ## Done
 
@@ -18,6 +18,7 @@
 - 3 planned
 - 3 briefed
 - 3 drafted
+- 3 checked
 - 4 cleaned
 - 5 cleaned
 - 6 reviewed

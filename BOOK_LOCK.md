@@ -12,6 +12,14 @@ The main book remains the long-form reader journey.
 
 It contains the full chapter structure, explanations, framing, and development of ideas.
 
+## Standalone chapter rule
+
+Each chapter must work as a separate reading unit.
+
+A reader should be able to open any chapter and still get useful help from that chapter.
+
+Each chapter should include its own context, plain definitions, and quick-use sections.
+
 ## Tool supplement
 
 The supplement contains 12 practical modules.

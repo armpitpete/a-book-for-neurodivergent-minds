@@ -1,9 +1,9 @@
 ---
 chapter: 29
 title: Rest, Recovery, and Not Earning Exhaustion
-status: draft_v0.1
+status: draft_v0.2
 source: manuscript/main_book/29_CHAPTER_BRIEF.md
-standalone_status: draft_needs_review
+standalone_status: checked
 ---
 
 # Rest, Recovery, and Not Earning Exhaustion
@@ -19,6 +19,8 @@ Recovery is not failure.
 Stopping before damage is not weakness.
 
 Some people only allow themselves to rest after they have broken, collapsed, shut down, melted down, become ill, or lost all words.
+
+They may have been taught that rest only counts when the damage is visible.
 
 That is a hard way to live.
 
@@ -329,6 +331,24 @@ Examples:
 - write one line: “I am overloaded”
 - put the task down and set a return time
 
+## When rest is not enough
+
+Rest can reduce damage.
+
+Recovery can help capacity return.
+
+But rest does not replace care, support, treatment, safety planning, or follow-up when those are needed.
+
+If something is new, severe, worsening, unsafe, or affecting daily life for a long time, it may need more than rest.
+
+A useful question is:
+
+> Is this a load I need to recover from, or a problem I need help with?
+
+Sometimes the answer is both.
+
+For example, after a hard appointment, you may need recovery from the appointment and follow-up for the health issue.
+
 ## What helps
 
 ### 1. Rest before collapse
@@ -498,7 +518,11 @@ Chapter 28 explains health, appointments, and being believed.
 
 Rest and recovery can involve all of those.
 
-Later chapters will cover building a life that does not keep breaking you and pacing a week.
+This chapter stays focused on one recovery decision at a time.
+
+A later chapter will cover building a life that does not keep breaking you.
+
+That is the bigger pattern.
 
 You do not need to solve all of that here.
 
@@ -522,6 +546,8 @@ Do not use rest as another reason to attack yourself.
 
 Do not wait until all words are gone before reducing load if you can act earlier.
 
+Do not use rest to dismiss a health need that needs support or follow-up.
+
 ## You are not failing if
 
 You are not failing if:
@@ -533,6 +559,7 @@ You are not failing if:
 - you need fewer choices
 - you need recovery after appointments
 - you need rest before collapse
+- you need both recovery and help with the problem
 
 Rest is not something you only earn after breaking.
 

@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Draft 16
-2. Check 16 on its own
-3. Check 16 against 9, 10, and 17
+1. Check 16 on its own
+2. Check 16 against 9, 10, and 17
+3. Clean 16 if needed
 
 ## Done
 
@@ -60,6 +60,7 @@
 - 15 checked
 - 16 planned
 - 16 briefed
+- 16 drafted
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added

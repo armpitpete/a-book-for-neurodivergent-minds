@@ -2,11 +2,10 @@
 
 ## Next
 
-1. Archive old set
-2. Map files to 35 chapters
-3. Map tools to supplement
-4. Review structure
-5. Apply standalone chapter check
+1. Create clean working chapter files
+2. Create supplement module placeholders
+3. Review structure
+4. Begin Chapter 1 cleanup
 
 ## Done
 
@@ -30,3 +29,7 @@
 - Main book working TOC added
 - Tool supplement spine added
 - Draft map added
+- Old version index added
+- Chapter map added
+- Tool map added
+- Standalone chapter check added

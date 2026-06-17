@@ -2,39 +2,36 @@
 
 ## Current version
 
-v1.9 — Chapter 2 checked
+v2.0 — 3 planned
 
 ## Current decision
 
-The project is a 35-chapter main book with a 12-module tool supplement.
+35-chapter main book plus 12-tool supplement.
 
-The supplement supports the book. It does not replace it.
+Write every part for ND and YP readers.
 
-Each chapter and tool must be written for neurodivergent readers and young people.
-
-Each chapter must also work as a standalone reading unit.
+Each chapter must work on its own.
 
 ## Done
 
-- GitHub repo created
-- Core structure locked
-- Source files imported
-- Working folders created
-- Chapter 1 cleaned
-- Chapter 2 drafted
-- Chapter 2 checked
-- Chapter 4 cleaned
-- Chapter 5 cleaned
-- Chapter 6 reviewed
-- Supplement modules created and reviewed
-- Module 11 wording clarified
+- Repo created
+- Structure locked
+- Sources imported
+- Work folders created
+- 1 cleaned
+- 2 drafted
+- 2 checked
+- 3 planned
+- 3 briefed
+- 4 cleaned
+- 5 cleaned
+- 6 reviewed
+- Tools created and reviewed
+- Module 11 clarified
 - Sequence review added
-- Next plan added
-- Brief for 2 added
-- Draft note for 2 added
 
 ## Next
 
-1. Plan 3
-2. Brief 3
-3. Draft 3
+1. Draft 3
+2. Check 3 on its own
+3. Check 3 against 2 and 4

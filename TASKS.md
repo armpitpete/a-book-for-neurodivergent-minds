@@ -2,15 +2,13 @@
 
 ## Next
 
-1. Sort drafts
-2. Archive old drafts
-3. Make module template
-4. Convert first module
-5. Convert second module
-6. Convert third module
-7. Make card template
-8. Make reading checklist
-9. Review v0.1
+1. Archive old set
+2. Convert first module
+3. Convert second module
+4. Convert third module
+5. Make card template
+6. Make reading checklist
+7. Review v0.1
 
 ## Done
 
@@ -20,3 +18,5 @@
 - Tasks file added
 - Source manifest added
 - Source file list added
+- Sort plan added
+- Module template added

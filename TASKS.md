@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Draft 15
-2. Check 15 on its own
-3. Check 15 against 7, 9, and 12
+1. Check 15 on its own
+2. Check 15 against 7, 9, and 12
+3. Clean 15 if needed
 
 ## Done
 
@@ -56,6 +56,7 @@
 - 14 checked
 - 15 planned
 - 15 briefed
+- 15 drafted
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added

@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Safety wording pass for Chapter 6
-2. Clean Chapter 4 Overload
-3. Review supplement modules 7 to 12 for ND and YP readability
+1. Clean Chapter 4 Overload
+2. Review supplement modules 7 to 12 for ND and YP readability
+3. Clean Chapter 5 Shutdown
 
 ## Done
 
@@ -40,3 +40,5 @@
 - ND and YP writing rule added
 - Supplement modules 7 to 12 expanded
 - Tool map updated after module expansion
+- Chapter 6 safety-reviewed draft added
+- Chapter 6 safety pass note added

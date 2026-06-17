@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Plan 22
-2. Brief 22
-3. Draft 22
+1. Draft 22
+2. Check 22 on its own
+3. Check 22 against 21 and 23
 
 ## Done
 
@@ -29,6 +29,8 @@
 - 21 briefed
 - 21 drafted
 - 21 checked
+- 22 planned
+- 22 briefed
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added

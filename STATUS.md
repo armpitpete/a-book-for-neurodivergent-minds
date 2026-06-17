@@ -2,7 +2,7 @@
 
 ## Current version
 
-v6.0 — 19 drafted
+v6.1 — 19 checked
 
 ## Current decision
 
@@ -30,12 +30,13 @@ Chapter numbering needs a later sequence check.
 - 19 planned
 - 19 briefed
 - 19 drafted
+- 19 checked
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added
 
 ## Next
 
-1. Check 19 on its own
-2. Check 19 against 18 and 20
-3. Clean 19 if needed
+1. Plan 20
+2. Brief 20
+3. Draft 20

@@ -1,16 +1,28 @@
-# Book v1 Lock
+# Book Structure Lock
 
-## v1 format
+## True structure
 
-v1 is a 12-module practical field guide for readers who need fast, usable help.
+This project is a 35-chapter main book with a 12-module tool supplement.
 
-It is not the larger expanded book.
+The tool modules support the main book. They do not replace it.
+
+## Main book
+
+The main book remains the long-form reader journey.
+
+It contains the full chapter structure, explanations, framing, and development of ideas.
+
+## Tool supplement
+
+The supplement contains 12 practical modules.
+
+Each module should be short, usable, and easy to return to.
 
 ## Core promise
 
-The reader must be able to find one usable sentence in under 60 seconds.
+The reader should be able to find one useful sentence quickly.
 
-## v1 module spine
+## Tool module spine
 
 1. Pre-Signal
 2. Exit Early
@@ -25,20 +37,8 @@ The reader must be able to find one usable sentence in under 60 seconds.
 11. The Misread Map
 12. The Quiet Handover
 
-## Standard module pattern
+## Working rule
 
-Each module must include:
+Do not reduce the book to the supplement.
 
-1. Start here if…
-2. If you can only do one thing right now
-3. Plain explanation
-4. What makes it worse
-5. What helps
-6. 30 seconds / 3 minutes / 30 minutes
-7. Useful scripts
-8. When not to use this tool
-9. Quick summary: exactly 3 bullets
-
-## Rule
-
-No new modules until the first 6 modules are finished and tested for bad-day readability.
+Use the 12 modules as practical support material beside the 35-chapter book.

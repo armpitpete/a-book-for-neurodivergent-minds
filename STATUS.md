@@ -2,7 +2,7 @@
 
 ## Current version
 
-v2.5 — 7 checked
+v2.6 — 8 planned
 
 ## Current decision
 
@@ -32,12 +32,14 @@ Each chapter must work on its own.
 - 7 briefed
 - 7 drafted
 - 7 checked
+- 8 planned
+- 8 briefed
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added
 
 ## Next
 
-1. Plan 8
-2. Brief 8
-3. Draft 8
+1. Draft 8
+2. Check 8 on its own
+3. Check 8 against 2 and 7

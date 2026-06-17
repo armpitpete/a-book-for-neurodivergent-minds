@@ -2,21 +2,20 @@
 
 ## Next
 
-1. Archive old set
-2. Convert first module
-3. Convert second module
-4. Convert third module
-5. Make card template
-6. Make reading checklist
-7. Review v0.1
+1. Create main book folder
+2. Create supplement folder
+3. Import current draft files
+4. Archive old set
+5. Map drafts to 35 chapters
+6. Map tools to 12-module supplement
+7. Review v0.1 structure
 
 ## Done
 
 - Repo created
-- Lock file added
-- Status file added
-- Tasks file added
+- Lock file corrected
+- Status file corrected
 - Source manifest added
 - Source file list added
-- Sort plan added
+- Sort plan corrected
 - Module template added

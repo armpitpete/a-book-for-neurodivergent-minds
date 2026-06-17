@@ -9,6 +9,7 @@
 5. Map drafts to 35 chapters
 6. Map tools to 12-module supplement
 7. Review v0.1 structure
+8. Apply standalone chapter check to drafts
 
 ## Done
 
@@ -19,3 +20,4 @@
 - Source file list added
 - Sort plan corrected
 - Module template added
+- Standalone chapter rule added

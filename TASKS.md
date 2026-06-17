@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Draft 20
-2. Check 20 on its own
-3. Check 20 against 19 and 21
+1. Check 20 on its own
+2. Check 20 against 19 and 21
+3. Clean 20 if needed
 
 ## Done
 
@@ -23,6 +23,7 @@
 - 19 checked
 - 20 planned
 - 20 briefed
+- 20 drafted
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added

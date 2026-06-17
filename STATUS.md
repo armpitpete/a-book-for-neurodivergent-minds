@@ -2,7 +2,7 @@
 
 ## Current version
 
-v0.2 — online structure and source import
+v0.3 — current source drafts imported
 
 ## Current decision
 
@@ -24,8 +24,10 @@ Each chapter must also work as a standalone reading unit.
 - Main book folder created
 - Tool supplement folder created
 - Working TOC imported
-- Chapter 1 draft imported
-- Overload draft imported
+- Chapter 1 imported
+- Overload imported
+- Shutdown imported
+- Meltdown imported
 - Tool index imported
 - Main book working TOC added
 - Tool supplement spine added
@@ -33,9 +35,7 @@ Each chapter must also work as a standalone reading unit.
 
 ## Next
 
-1. Import Shutdown v1.1 draft
-2. Import Meltdown v1.1 draft
-3. Put old versions in archive
-4. Map existing drafts to the 35-chapter plan
-5. Map tool material to the 12-module supplement
-6. Apply standalone chapter check to drafts
+1. Put old versions in archive
+2. Map existing files to the 35-chapter plan
+3. Map tool material to the 12-module supplement
+4. Apply standalone chapter check

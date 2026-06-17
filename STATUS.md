@@ -2,7 +2,7 @@
 
 ## Current version
 
-v1.2 — supplement modules 7 to 12 reviewed
+v1.3 — Chapter 5 Shutdown cleaned draft
 
 ## Current decision
 
@@ -51,9 +51,11 @@ Each chapter must also work as a standalone reading unit.
 - Chapter 4 cleaned draft added
 - Chapter 4 cleanup note added
 - Supplement modules 7 to 12 ND and YP review added
+- Chapter 5 cleaned draft added
+- Chapter 5 cleanup note added
 
 ## Next
 
-1. Clean Chapter 5 Shutdown
-2. Review Chapter 1 and Chapter 4 overlap
-3. Make Module 11 intent and impact wording plainer
+1. Review Chapter 1 and Chapter 4 overlap
+2. Make Module 11 intent and impact wording plainer
+3. Review Chapters 4, 5, and 6 as a sequence

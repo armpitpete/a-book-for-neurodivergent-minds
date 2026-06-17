@@ -2,9 +2,10 @@
 
 ## Next
 
-1. Create remaining supplement module placeholders
-2. Review structure
-3. Begin Chapter 1 cleanup
+1. Review structure
+2. Begin Chapter 1 cleanup
+3. Expand supplement modules 7 to 12
+4. Safety wording pass for Chapter 6
 
 ## Done
 
@@ -33,4 +34,4 @@
 - Tool map added
 - Standalone chapter check added
 - Clean working chapter files added
-- Supplement module 1 placeholder added
+- All 12 supplement module placeholders added

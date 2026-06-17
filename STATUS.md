@@ -2,7 +2,7 @@
 
 ## Current version
 
-v0.6 — supplement module placeholders complete
+v0.7 — structure reviewed
 
 ## Current decision
 
@@ -38,10 +38,10 @@ Each chapter must also work as a standalone reading unit.
 - Standalone chapter check added
 - Clean working chapter files added
 - All 12 supplement module placeholders added
+- Structure review v0.6 added
 
 ## Next
 
-1. Review structure
-2. Begin Chapter 1 cleanup
-3. Expand supplement modules 7 to 12
-4. Safety wording pass for Chapter 6
+1. Begin Chapter 1 cleanup
+2. Expand supplement modules 7 to 12
+3. Safety wording pass for Chapter 6

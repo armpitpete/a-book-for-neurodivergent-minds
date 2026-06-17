@@ -2,7 +2,7 @@
 
 ## Current version
 
-v1.4 — Chapter 1 and Chapter 4 overlap reviewed
+v1.5 — Module 11 intent and impact wording clarified
 
 ## Current decision
 
@@ -54,9 +54,10 @@ Each chapter must also work as a standalone reading unit.
 - Chapter 5 cleaned draft added
 - Chapter 5 cleanup note added
 - Chapter 1 and 4 overlap review added
+- Module 11 intent and impact wording clarified
 
 ## Next
 
-1. Make Module 11 intent and impact wording plainer
-2. Review Chapters 4, 5, and 6 as a sequence
-3. Start next main-book chapter planning
+1. Review Chapters 4, 5, and 6 as a sequence
+2. Start next main-book chapter planning
+3. Decide whether to clean Chapter 2 or Chapter 7 next

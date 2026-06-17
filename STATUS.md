@@ -2,7 +2,7 @@
 
 ## Current version
 
-v8.6 — 28 planned
+v8.7 — 28 drafted
 
 ## Current decision
 
@@ -19,7 +19,6 @@ Chapter numbering needs a later sequence check.
 - Repo created
 - Structure locked
 - Sources imported
-- Work folders created
 - Chapters 1 to 17 recorded in chapter files
 - 18 checked
 - 19 checked
@@ -31,11 +30,10 @@ Chapter numbering needs a later sequence check.
 - 25 checked
 - 26 checked
 - 27 checked
-- 28 planned
-- 28 briefed
+- 28 drafted
 
 ## Next
 
-1. Draft 28
-2. Check 28 on its own
-3. Check 28 against 27 and 29
+1. Check 28 on its own
+2. Check 28 against 27 and 29
+3. Clean 28 if needed

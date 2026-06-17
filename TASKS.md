@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Plan 15
-2. Brief 15
-3. Draft 15
+1. Draft 15
+2. Check 15 on its own
+3. Check 15 against 7, 9, and 12
 
 ## Done
 
@@ -54,6 +54,9 @@
 - 14 briefed
 - 14 drafted
 - 14 checked
+- 15 planned
+- 15 briefed
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added
+- Chapter 14 numbering conflict noted in Chapter 15 plan

@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Draft 29
-2. Check 29 on its own
-3. Check 29 against 28 and 30
+1. Check 29 on its own
+2. Check 29 against 28 and 30
+3. Clean 29 if needed
 
 ## Done
 
@@ -59,6 +59,7 @@
 - 28 checked
 - 29 planned
 - 29 briefed
+- 29 drafted
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added

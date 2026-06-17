@@ -2,7 +2,7 @@
 
 ## Current version
 
-v4.3 — 13 checked
+v4.4 — 14 planned
 
 ## Current decision
 
@@ -56,12 +56,14 @@ Each chapter must work on its own.
 - 13 briefed
 - 13 drafted
 - 13 checked
+- 14 planned
+- 14 briefed
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added
 
 ## Next
 
-1. Plan 14
-2. Brief 14
-3. Draft 14
+1. Draft 14
+2. Check 14 on its own
+3. Check 14 against 13 and 21

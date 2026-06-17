@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Check 24 on its own
-2. Check 24 against 23 and 25
-3. Clean 24 if needed
+1. Plan 25
+2. Brief 25
+3. Draft 25
 
 ## Done
 
@@ -40,6 +40,7 @@
 - 24 planned
 - 24 briefed
 - 24 drafted
+- 24 checked
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added

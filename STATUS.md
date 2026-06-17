@@ -2,7 +2,7 @@
 
 ## Current version
 
-v4.6 — 14 checked
+v4.7 — 15 planned
 
 ## Current decision
 
@@ -11,6 +11,10 @@ v4.6 — 14 checked
 Write every part for ND and YP readers.
 
 Each chapter must work on its own.
+
+## Known issue
+
+Chapter numbering needs a later sequence check.
 
 ## Done
 
@@ -60,12 +64,14 @@ Each chapter must work on its own.
 - 14 briefed
 - 14 drafted
 - 14 checked
+- 15 planned
+- 15 briefed
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added
 
 ## Next
 
-1. Plan 15
-2. Brief 15
-3. Draft 15
+1. Draft 15
+2. Check 15 on its own
+3. Check 15 against 7, 9, and 12

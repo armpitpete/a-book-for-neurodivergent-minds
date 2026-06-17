@@ -2,13 +2,11 @@
 
 ## Next
 
-1. Import Shutdown v1.1 draft
-2. Import Meltdown v1.1 draft
-3. Archive old set
-4. Map drafts to 35 chapters
-5. Map tools to 12-module supplement
-6. Review v0.1 structure
-7. Apply standalone chapter check to drafts
+1. Archive old set
+2. Map files to 35 chapters
+3. Map tools to supplement
+4. Review structure
+5. Apply standalone chapter check
 
 ## Done
 
@@ -24,8 +22,10 @@
 - Tool supplement folder created
 - Start Here README imported
 - Working TOC imported
-- Chapter 1 draft imported
-- Overload draft imported
+- Chapter 1 imported
+- Overload imported
+- Shutdown imported
+- Meltdown imported
 - Tool index imported
 - Main book working TOC added
 - Tool supplement spine added

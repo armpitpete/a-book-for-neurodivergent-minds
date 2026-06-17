@@ -2,7 +2,7 @@
 
 ## Current version
 
-v1.8 — Chapter 2 drafted
+v1.9 — Chapter 2 checked
 
 ## Current decision
 
@@ -22,18 +22,19 @@ Each chapter must also work as a standalone reading unit.
 - Working folders created
 - Chapter 1 cleaned
 - Chapter 2 drafted
+- Chapter 2 checked
 - Chapter 4 cleaned
 - Chapter 5 cleaned
 - Chapter 6 reviewed
 - Supplement modules created and reviewed
 - Module 11 wording clarified
-- Chapter sequence review added
+- Sequence review added
 - Next plan added
 - Brief for 2 added
 - Draft note for 2 added
 
 ## Next
 
-1. Check 2 on its own
-2. Check 2 against 1 and 4
-3. Clean 2 if needed
+1. Plan 3
+2. Brief 3
+3. Draft 3

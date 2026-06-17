@@ -2,20 +2,22 @@
 
 ## Next
 
-1. Plan next main-book chapter
-2. Choose next chapter to clean
-3. Create next-chapter brief
+1. Draft 2
+2. Check 2 on its own
+3. Check 2 against 1 and 4
 
 ## Done
 
 - Repo created
-- Core structure locked
-- Source files imported
-- Working folders created
-- Chapter 1 cleaned
-- Chapter 4 cleaned
-- Chapter 5 cleaned
-- Chapter 6 reviewed
-- Supplement modules created and reviewed
-- Module 11 wording clarified
-- Chapter sequence review added
+- Structure locked
+- Sources imported
+- Work folders created
+- 1 cleaned
+- 4 cleaned
+- 5 cleaned
+- 6 reviewed
+- Tools created and reviewed
+- Module 11 clarified
+- Sequence review added
+- Next plan added
+- Brief for 2 added

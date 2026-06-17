@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Check 17 on its own
-2. Check 17 against 16 and 18
-3. Clean 17 if needed
+1. Plan 18
+2. Brief 18
+3. Draft 18
 
 ## Done
 
@@ -65,6 +65,7 @@
 - 17 planned
 - 17 briefed
 - 17 drafted
+- 17 checked
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added

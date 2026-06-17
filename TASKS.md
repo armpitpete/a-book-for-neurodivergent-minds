@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Draft 26
-2. Check 26 on its own
-3. Check 26 against 25 and 27
+1. Check 26 on its own
+2. Check 26 against 25 and 27
+3. Clean 26 if needed
 
 ## Done
 
@@ -47,6 +47,7 @@
 - 25 checked
 - 26 planned
 - 26 briefed
+- 26 drafted
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added

@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Clean Chapter 4 Overload
-2. Review supplement modules 7 to 12 for ND and YP readability
-3. Clean Chapter 5 Shutdown
+1. Review supplement modules 7 to 12 for ND and YP readability
+2. Clean Chapter 5 Shutdown
+3. Review Chapter 1 and Chapter 4 overlap
 
 ## Done
 
@@ -42,3 +42,5 @@
 - Tool map updated after module expansion
 - Chapter 6 safety-reviewed draft added
 - Chapter 6 safety pass note added
+- Chapter 4 cleaned draft added
+- Chapter 4 cleanup note added

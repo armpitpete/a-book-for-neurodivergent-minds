@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Check 27 on its own
-2. Check 27 against 26 and 28
-3. Clean 27 if needed
+1. Plan 28
+2. Brief 28
+3. Draft 28
 
 ## Done
 
@@ -52,6 +52,7 @@
 - 27 planned
 - 27 briefed
 - 27 drafted
+- 27 checked
 - Tools created and reviewed
 - Module 11 clarified
 - Sequence review added

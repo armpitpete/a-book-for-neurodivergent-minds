@@ -2,9 +2,9 @@
 
 ## Next
 
-1. Make Module 11 intent and impact wording plainer
-2. Review Chapters 4, 5, and 6 as a sequence
-3. Start next main-book chapter planning
+1. Review Chapters 4, 5, and 6 as a sequence
+2. Start next main-book chapter planning
+3. Decide whether to clean Chapter 2 or Chapter 7 next
 
 ## Done
 
@@ -48,3 +48,4 @@
 - Chapter 5 cleaned draft added
 - Chapter 5 cleanup note added
 - Chapter 1 and 4 overlap review added
+- Module 11 intent and impact wording clarified

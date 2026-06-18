@@ -2,7 +2,7 @@
 
 ## Current version
 
-v16.3 — local tool inventory task prepared
+v16.4 — previous upload tool source checked
 
 ## Current decision
 
@@ -30,6 +30,8 @@ The connector confirmed that `manuscript/tool_supplement/modules` is a real dire
 
 A local inventory task note has been created.
 
+The previous uploaded ZIP has been checked. It contains a Tool Index/Script Library and a Chapter-Module Template, but not separate current module files.
+
 ## Status notes
 
 Chapters 29–35 are checked and cleaned.
@@ -50,6 +52,8 @@ Several early and middle chapters still need frontmatter normalization through a
 
 The existing tool module folder still needs a full local inventory.
 
+The older uploaded 6-card tool index should be treated as source material, not as the final 12-tool supplement structure.
+
 ## Check notes created
 
 - `manuscript/main_book/02_03_CHECK_NOTE.md`
@@ -63,12 +67,14 @@ The existing tool module folder still needs a full local inventory.
 - `manuscript/tool_supplement/TOOL_SUPPLEMENT_SEQUENCE_PLAN.md`
 - `manuscript/tool_supplement/TOOL_MODULE_INVENTORY_NOTE.md`
 - `manuscript/tool_supplement/LOCAL_TOOL_INVENTORY_TASK.md`
+- `manuscript/tool_supplement/PREVIOUS_UPLOAD_TOOL_SOURCE_NOTE.md`
 
 ## Next
 
-1. Run the PowerShell inventory commands in `LOCAL_TOOL_INVENTORY_TASK.md`.
-2. Paste the real module list back into ChatGPT.
-3. Compare existing module names against the proposed 12-tool sequence.
-4. Decide whether to create missing modules or rename/reorder existing modules.
-5. Normalize front matter later through a safer patch workflow or local checkout.
-6. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy.
+1. Use the previous upload as source material for missing module drafts.
+2. Keep Tools 8, 11, and 12 anchored unless a local inventory proves otherwise.
+3. Run the local module folder inventory when at the PC.
+4. Compare existing module names against the proposed 12-tool sequence.
+5. Decide whether to create missing modules or rename/reorder existing modules.
+6. Normalize front matter later through a safer patch workflow or local checkout.
+7. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy.

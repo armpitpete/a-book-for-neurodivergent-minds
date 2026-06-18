@@ -2,7 +2,7 @@
 
 ## Draft completed
 
-Chapter 33 has a first working draft.
+Chapter 33 has a checked and cleaned working draft.
 
 ## Chosen title
 
@@ -35,24 +35,44 @@ Chapter 33 explains how to ask for, accept, or organise help without shame, loss
 - Linked back to Chapters 22, 28, 30, and 32.
 - Ended with three quick-summary bullets.
 
-## Boundary notes
+## Standalone check
+
+Chapter 33 works on its own.
+
+A reader can understand the main point without reading Chapter 32:
+
+> Useful help should make the next step clearer, safer, smaller, or more possible.
+
+The chapter gives a clear reason for asking for specific help, several types of help, examples of good help and unhelpful control, a bounded request tool, small actions, scripts, and reassurance.
+
+## Overlap check with Chapter 32
 
 Chapter 32 is the reset-after-the-plan-goes-wrong chapter.
 
 Chapter 33 is the support-without-being-taken-over chapter.
 
-It should not become a full crisis plan, therapy chapter, or service-navigation chapter.
+The overlap is acceptable because Chapter 33 takes one possible Chapter 32 next safe step — asking for support — and makes it specific.
+
+The link-back section now states the boundary clearly:
+
+> Chapter 32 asks what the next safe step is after a plan goes wrong.
+>
+> Chapter 33 asks what kind of support would make that step clearer, safer, smaller, or more possible.
+
+## Cleaning done
+
+- Updated front matter from `draft_v0.1` to `draft_v0.2`.
+- Updated `standalone_status` from `draft_needs_review` to `checked`.
+- Added a clarification that the chapter is not saying all help is unsafe.
+- Added a line to reduce overwhelm in the help-categories section: the reader does not need to remember all the names and can pick the closest one.
+- Reduced the 30-minute support request map from six headings to five headings.
+- Added explicit Chapter 32 / Chapter 33 boundary wording in the link-back section.
 
 ## Current status
 
-Draft v0.1.
+Checked and cleaned draft v0.2.
 
 ## Later checks
 
-- Check Chapter 33 on its own.
-- Check overlap with Chapter 32.
-- Check whether the help categories are too many.
-- Check whether “control” stays supportive and not suspicious of all help.
-- Check whether the safety caveat is clear but not too heavy.
 - Check against Chapter 34 when Chapter 34 exists.
 - Resolve the wider chapter-numbering conflict later.

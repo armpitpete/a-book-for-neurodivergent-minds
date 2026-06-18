@@ -1,12 +1,11 @@
+---
+tool: 5
+title: The Body Floor Check
+status: draft_v0.2
+linked_chapters: [12, 15, 28, 29, 31]
+---
+
 # Tool 5 — The Body Floor Check
-
-## Status
-
-Draft v0.1.
-
-Created from the current 12-tool supplement sequence.
-
-This tool supports body basics, health appointments, capacity, and recovery.
 
 ## What this tool is for
 

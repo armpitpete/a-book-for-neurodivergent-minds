@@ -2,7 +2,7 @@
 
 ## Current version
 
-v15.3 — full chapter inventory recovered
+v15.4 — current frontmatter audit complete
 
 ## Current decision
 
@@ -14,9 +14,13 @@ Each chapter must work on its own.
 
 Chapter 6 needs a later readability check.
 
-Early chapter statuses need a current-frontmatter normalization pass.
+Current frontmatter audit found mixed status labels across Chapters 1–28.
 
-The full 35-chapter sequence inventory is complete, but the main book should not be marked fully clean until Chapters 1–28 current front matter has been audited and status labels are normalized if needed.
+Chapters 2, 3, and 7–28 are currently marked `draft_v0.1` and `draft_needs_review` in their live chapter files.
+
+Chapters 1, 4, and 5 have older cleaned/strong labels.
+
+The full 35-chapter sequence inventory is complete, but the main book should not be marked fully clean until these labels are normalized after brief chapter checks.
 
 ## Done
 
@@ -24,17 +28,17 @@ The full 35-chapter sequence inventory is complete, but the main book should not
 - Structure locked
 - Sources imported
 - Chapters 1 to 17 recorded in chapter files
-- 18 checked
-- 19 checked
-- 20 checked
-- 21 checked
-- 22 checked
-- 23 checked
-- 24 checked
-- 25 checked
-- 26 checked
-- 27 checked
-- 28 checked
+- 18 checked in status history
+- 19 checked in status history
+- 20 checked in status history
+- 21 checked in status history
+- 22 checked in status history
+- 23 checked in status history
+- 24 checked in status history
+- 25 checked in status history
+- 26 checked in status history
+- 27 checked in status history
+- 28 checked in status history
 - 29 planned
 - 29 briefed
 - 29 drafted
@@ -76,10 +80,14 @@ The full 35-chapter sequence inventory is complete, but the main book should not
 - conceptual 35-chapter sequence checked
 - no missing chapter numbers found
 - no duplicate chapter numbers found
+- current frontmatter audit for Chapters 1–28 complete
+- current frontmatter audit note created
 
 ## Next
 
-1. Audit current front matter/status for Chapters 1–28
-2. Normalize chapter status labels if needed
-3. Mark 35-chapter main book sequence clean when audit is complete
-4. Plan 12-tool supplement sequence
+1. Check Chapters 2–3 against Chapters 1 and 4
+2. Normalize Chapters 2–3 front matter if they pass
+3. Continue status normalization in batches: 7–12, 13–17, 18–23, 24–28
+4. Do Chapter 6 readability check
+5. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy
+6. Plan 12-tool supplement sequence

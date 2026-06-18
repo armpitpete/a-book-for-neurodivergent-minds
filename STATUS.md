@@ -2,7 +2,7 @@
 
 ## Current version
 
-v17.3 — Tool 9 draft created
+v17.4 — Tool 10 draft created
 
 ## Current decision
 
@@ -40,6 +40,7 @@ Created current-structure module drafts:
 - Tool 6 — The Choice Shrinker
 - Tool 7 — The Support Ask
 - Tool 9 — The Transition Bridge
+- Tool 10 — The Boundary/Exit Card
 
 Updated existing modules:
 
@@ -70,9 +71,8 @@ Some chapter frontmatter still needs later normalization through a safer patch w
 
 ## Next
 
-1. Create Tool 10 — The Boundary/Exit Card.
-2. Review Tool 11 — The Misread Map against the new module format.
-3. Review Tool 12 — The Quiet Handover against the new module format.
-4. Run the local module folder inventory when at the PC.
-5. Normalize front matter later through a safer patch workflow or local checkout.
-6. Mark the 35-chapter main book sequence clean when chapter statuses are trustworthy.
+1. Review Tool 11 — The Misread Map against the new module format.
+2. Review Tool 12 — The Quiet Handover against the new module format.
+3. Run the local module folder inventory when at the PC.
+4. Normalize front matter later through a safer patch workflow or local checkout.
+5. Mark the 35-chapter main book sequence clean when chapter statuses are trustworthy.

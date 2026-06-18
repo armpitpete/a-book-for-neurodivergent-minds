@@ -1,12 +1,11 @@
+---
+tool: 3
+title: The Next Safe Step
+status: draft_v0.2
+linked_chapters: [1, 18, 19, 26, 27, 35]
+---
+
 # Tool 3 — The Next Safe Step
-
-## Status
-
-Draft v0.1.
-
-Created from the current 12-tool supplement sequence.
-
-Uses the older Tool Index idea of a first small activation step, but replaces shame-based wording with safer language.
 
 ## What this tool is for
 

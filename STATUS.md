@@ -2,7 +2,7 @@
 
 ## Current version
 
-v18.4 - supplement contents page complete
+v18.5 - supplement contents links complete
 
 ## Current decision
 
@@ -35,6 +35,7 @@ It gives:
 - a short introduction to the 12 tools
 - simple starting points for readers who do not know where to begin
 - a stop rule so the tools do not become another demand
+- direct links from each tool name to its module file
 
 ## Local inventory result
 
@@ -78,5 +79,5 @@ Some chapter frontmatter still needs later normalization through a safer patch w
 ## Next
 
 1. Normalize chapter frontmatter later through a safer patch workflow or local checkout.
-2. Review the final supplement as a reader-facing section.
+2. Review the final linked supplement as a reader-facing section.
 3. Decide whether the supplement should be included before or after the main book in the final export.

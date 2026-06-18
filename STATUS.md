@@ -2,7 +2,7 @@
 
 ## Current version
 
-v16.4 — previous upload tool source checked
+v16.5 — Tool 1 draft created
 
 ## Current decision
 
@@ -31,6 +31,8 @@ The connector confirmed that `manuscript/tool_supplement/modules` is a real dire
 A local inventory task note has been created.
 
 The previous uploaded ZIP has been checked. It contains a Tool Index/Script Library and a Chapter-Module Template, but not separate current module files.
+
+Tool 1 — The One-Pressure Check has been created as a current-structure draft.
 
 ## Status notes
 
@@ -69,12 +71,18 @@ The older uploaded 6-card tool index should be treated as source material, not a
 - `manuscript/tool_supplement/LOCAL_TOOL_INVENTORY_TASK.md`
 - `manuscript/tool_supplement/PREVIOUS_UPLOAD_TOOL_SOURCE_NOTE.md`
 
+## Tool module drafts
+
+- Tool 1 — `manuscript/tool_supplement/modules/01_The_One_Pressure_Check.md`
+- Tool 8 — confirmed existing anchor
+- Tool 11 — confirmed existing anchor
+- Tool 12 — confirmed existing anchor
+
 ## Next
 
-1. Use the previous upload as source material for missing module drafts.
-2. Keep Tools 8, 11, and 12 anchored unless a local inventory proves otherwise.
-3. Run the local module folder inventory when at the PC.
-4. Compare existing module names against the proposed 12-tool sequence.
-5. Decide whether to create missing modules or rename/reorder existing modules.
-6. Normalize front matter later through a safer patch workflow or local checkout.
-7. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy.
+1. Create Tool 2 — The Good-Enough Line.
+2. Continue creating missing module drafts from the proposed 12-tool sequence.
+3. Keep Tools 8, 11, and 12 anchored unless a local inventory proves otherwise.
+4. Run the local module folder inventory when at the PC.
+5. Normalize front matter later through a safer patch workflow or local checkout.
+6. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy.

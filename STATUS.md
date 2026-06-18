@@ -2,7 +2,7 @@
 
 ## Current version
 
-v15.2 — sequence check report started
+v15.3 — full chapter inventory recovered
 
 ## Current decision
 
@@ -10,11 +10,13 @@ v15.2 — sequence check report started
 
 Each chapter must work on its own.
 
-## Known issue
+## Known issues
 
-Chapter numbering needs a later sequence check.
+Chapter 6 needs a later readability check.
 
-The full 35-chapter sequence cannot be marked clean until Chapters 1–28 titles and filenames are visible in one inventory.
+Early chapter statuses need a current-frontmatter normalization pass.
+
+The full 35-chapter sequence inventory is complete, but the main book should not be marked fully clean until Chapters 1–28 current front matter has been audited and status labels are normalized if needed.
 
 ## Done
 
@@ -70,10 +72,14 @@ The full 35-chapter sequence cannot be marked clean until Chapters 1–28 titles
 - 35 cleaned
 - sequence check report started
 - 29–35 closing arc checked
+- full 1–35 inventory recovered
+- conceptual 35-chapter sequence checked
+- no missing chapter numbers found
+- no duplicate chapter numbers found
 
 ## Next
 
-1. Retrieve full chapter inventory for Chapters 1–28
-2. Complete full 35-chapter sequence check
-3. Resolve chapter numbering issues
+1. Audit current front matter/status for Chapters 1–28
+2. Normalize chapter status labels if needed
+3. Mark 35-chapter main book sequence clean when audit is complete
 4. Plan 12-tool supplement sequence

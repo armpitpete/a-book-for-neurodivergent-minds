@@ -1,41 +1,40 @@
-# Noise Budget
+# Tool 8 — Noise Budget
 
 ## Status
 
-Expanded draft v0.1.
+Expanded draft v0.2.
 
-## Use this when
+Updated to match the current 12-tool supplement format.
 
-Use this when you feel overloaded but cannot tell why.
+This tool keeps the original shelf/load idea.
 
-This tool helps you see what has already filled your shelf before the final thing tips you over.
+## What this tool is for
 
-## Default line
-
-“What has already filled the shelf?”
-
-## What this tool does
+This tool helps you notice what has already filled your system before the final thing tips you over.
 
 Noise does not only mean sound.
 
-Noise can be anything your system has to carry.
+Noise can be anything your body, brain, senses, emotions, or attention have to carry.
 
-Examples:
+The aim is not to blame yourself for being overloaded.
 
-- sound
-- light
-- people
-- messages
-- choices
-- hunger
-- pain
-- poor sleep
-- travel
-- masking
-- waiting
-- uncertainty
+The aim is to count the load and reduce one part of it.
 
-The Noise Budget helps you count the load before you blame yourself.
+## Use this when
+
+Use this when:
+
+- you feel overloaded but cannot tell why
+- a small thing has tipped you over
+- everything feels louder, brighter, faster, or sharper than usual
+- people think you are reacting to only one event
+- you are blaming yourself for not coping
+- you need to reduce input before continuing
+- you need a clearer way to explain overload
+
+## Default line
+
+> What has already filled the shelf?
 
 ## 30 seconds
 
@@ -51,6 +50,19 @@ Choose one:
 - uncertainty
 
 Then reduce one piece of it.
+
+Examples:
+
+- lower noise
+- reduce light
+- move away from people
+- stop one task
+- eat or drink
+- pause messages
+- ask for fewer words
+- delay a decision
+
+One reduction counts.
 
 ## 3 minutes
 
@@ -72,7 +84,9 @@ Example:
 - body: hungry
 - uncertainty: waiting
 
-Pick the top two. Do not fix all of them at once.
+Pick the top two.
+
+Do not fix all of them at once.
 
 ## 30 minutes
 
@@ -92,16 +106,42 @@ Example:
 - make easier: headphones on bus
 - body need: eat before deciding anything
 
-## Useful scripts
+If the day is already overloaded, protect the next part of the day.
 
-“My shelf is already full. I need to reduce input.”
+Do not spend the whole budget proving you are trying.
 
-“I can do this later, but not with this much load.”
+## Script or template
 
-“I need less noise, less talking, or fewer decisions.”
+Use one of these:
+
+- “My shelf is already full. I need to reduce input.”
+- “I can do this later, but not with this much load.”
+- “I need less noise, less talking, or fewer decisions.”
+- “This is not only about the final thing. There was already load.”
+- “I need to remove one pressure before I continue.”
+- “Please give me one thing at a time.”
+
+## Stop point
+
+Stop after one load has been named and one reduction has been chosen.
+
+Do not turn this into a full audit of your whole life.
+
+Do not use the list to prove that you should be coping better.
+
+The tool has worked if the load is clearer or one input has been reduced.
 
 ## Quick summary
 
 - Do not only blame the final straw.
 - Count what has already filled the shelf.
 - Reduce the biggest load first.
+
+## Linked chapters
+
+- Chapter 4 — Overload
+- Chapter 6 — Meltdown
+- Chapter 9 — Sensory Load
+- Chapter 10 — Demand Friction
+- Chapter 15 — Food, Body Basics, and Keeping the Floor in Place
+- Chapter 16 — Environment: Making Space Less Hostile

@@ -1,9 +1,9 @@
 ---
 chapter: 2
 title: Why Life May Have Felt Harder Than It Looked
-status: draft_v0.1
+status: draft_v0.2
 source: manuscript/main_book/02_Why_Life_May_Have_Felt_Harder_Than_It_Looked_BRIEF.md
-standalone_status: draft_needs_review
+standalone_status: checked
 ---
 
 # Why Life May Have Felt Harder Than It Looked

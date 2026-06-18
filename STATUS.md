@@ -2,7 +2,7 @@
 
 ## Current version
 
-v18.6 - supplement module status labels normalized
+v18.7 - supplement reader-review ready
 
 ## Current decision
 
@@ -24,6 +24,7 @@ All supplement tools now use the reader-facing/frontmatter pattern:
 - practical tool text starts immediately after the heading
 - reader-facing body no longer opens with project drafting notes
 - module frontmatter status labels now use `ready_for_reader_review_v1.0`
+- final linked supplement has been reviewed as a reader-facing section and is reader-review ready
 
 ## Supplement contents
 
@@ -80,5 +81,5 @@ Some chapter frontmatter still needs later normalization through a safer patch w
 ## Next
 
 1. Normalize chapter frontmatter later through a safer patch workflow or local checkout.
-2. Review the final linked supplement as a reader-facing section.
+2. Decide whether final export strips frontmatter or uses reader-clean copies.
 3. Decide whether the supplement should be included before or after the main book in the final export.

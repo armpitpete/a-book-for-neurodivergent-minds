@@ -1,12 +1,12 @@
+---
+tool: 8
+title: Noise Budget
+status: expanded_draft_v0.3
+linked_chapters: [4, 6, 9, 10, 15, 16]
+source_notes: original shelf/load idea
+---
+
 # Tool 8 — Noise Budget
-
-## Status
-
-Expanded draft v0.2.
-
-Updated to match the current 12-tool supplement format.
-
-This tool keeps the original shelf/load idea.
 
 ## What this tool is for
 

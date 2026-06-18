@@ -1,12 +1,12 @@
+---
+tool: 10
+title: The Boundary/Exit Card
+status: draft_v0.2
+linked_chapters: [6, 13, 14, 21, 22, 25]
+source_notes: older Tool Index Exit Early and Boring + Bounded ideas
+---
+
 # Tool 10 — The Boundary/Exit Card
-
-## Status
-
-Draft v0.1.
-
-Created from the current 12-tool supplement sequence.
-
-Uses the older Tool Index ideas of Exit Early and Boring + Bounded, but keeps the current 35-chapter book structure.
 
 ## What this tool is for
 

@@ -2,7 +2,7 @@
 
 ## Current version
 
-v16.9 — Tool 5 draft created
+v17.0 — Tool 6 draft created
 
 ## Current decision
 
@@ -18,51 +18,34 @@ No missing chapter numbers were found.
 
 No duplicate chapter numbers were found.
 
-The full 35-chapter body sequence has now been conceptually checked.
+The full 35-chapter body sequence has been conceptually checked.
 
 Chapter 6 passed its readability check.
 
-The 12-tool supplement now has a proposed sequence plan.
+The 12-tool supplement has a proposed sequence plan.
 
-A partial connector-based tool module inventory has confirmed Tools 8, 11, and 12.
+Confirmed existing anchors:
 
-The connector confirmed that `manuscript/tool_supplement/modules` is a real directory, but it cannot list the directory contents in this workflow.
+- Tool 8 — Noise Budget
+- Tool 11 — The Misread Map
+- Tool 12 — The Quiet Handover
 
-A local inventory task note has been created.
+Created current-structure module drafts:
 
-The previous uploaded ZIP has been checked. It contains a Tool Index/Script Library and a Chapter-Module Template, but not separate current module files.
+- Tool 1 — The One-Pressure Check
+- Tool 2 — The Good-Enough Line
+- Tool 3 — The Next Safe Step
+- Tool 4 — The Capacity Check
+- Tool 5 — The Body Floor Check
+- Tool 6 — The Choice Shrinker
 
-Tool 1 — The One-Pressure Check has been created as a current-structure draft.
+## Notes
 
-Tool 2 — The Good-Enough Line has been created as a current-structure draft.
+The previous uploaded ZIP contains useful older tool source material and a chapter-module template, but not separate current module files.
 
-Tool 3 — The Next Safe Step has been created as a current-structure draft.
+The existing tool module folder still needs a full local inventory because the connector cannot list directory contents in this workflow.
 
-Tool 4 — The Capacity Check has been created as a current-structure draft.
-
-Tool 5 — The Body Floor Check has been created as a current-structure draft.
-
-## Status notes
-
-Chapters 29–35 are checked and cleaned.
-
-Chapter 2 has been normalized to `draft_v0.2` and `checked`.
-
-Chapter 3 passed the flow check, but its frontmatter update was blocked by the connector safety layer.
-
-Chapters 7–12 passed their sequence batch check.
-
-Chapters 13–17 passed their sequence batch check.
-
-Chapters 18–23 passed their sequence batch check.
-
-Chapters 24–28 passed their sequence batch check.
-
-Several early and middle chapters still need frontmatter normalization through a safer patch workflow or local checkout.
-
-The existing tool module folder still needs a full local inventory.
-
-The older uploaded 6-card tool index should be treated as source material, not as the final 12-tool supplement structure.
+Some chapter frontmatter still needs later normalization through a safer patch workflow or local checkout.
 
 ## Check notes created
 
@@ -79,22 +62,11 @@ The older uploaded 6-card tool index should be treated as source material, not a
 - `manuscript/tool_supplement/LOCAL_TOOL_INVENTORY_TASK.md`
 - `manuscript/tool_supplement/PREVIOUS_UPLOAD_TOOL_SOURCE_NOTE.md`
 
-## Tool module drafts
-
-- Tool 1 — `manuscript/tool_supplement/modules/01_The_One_Pressure_Check.md`
-- Tool 2 — `manuscript/tool_supplement/modules/02_The_Good_Enough_Line.md`
-- Tool 3 — `manuscript/tool_supplement/modules/03_The_Next_Safe_Step.md`
-- Tool 4 — `manuscript/tool_supplement/modules/04_The_Capacity_Check.md`
-- Tool 5 — `manuscript/tool_supplement/modules/05_The_Body_Floor_Check.md`
-- Tool 8 — confirmed existing anchor
-- Tool 11 — confirmed existing anchor
-- Tool 12 — confirmed existing anchor
-
 ## Next
 
-1. Create Tool 6 — The Choice Shrinker.
+1. Create Tool 7 — The Support Ask.
 2. Continue creating missing module drafts from the proposed 12-tool sequence.
 3. Keep Tools 8, 11, and 12 anchored unless a local inventory proves otherwise.
 4. Run the local module folder inventory when at the PC.
 5. Normalize front matter later through a safer patch workflow or local checkout.
-6. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy.
+6. Mark the 35-chapter main book sequence clean when chapter statuses are trustworthy.

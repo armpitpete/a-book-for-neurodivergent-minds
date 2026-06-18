@@ -2,7 +2,7 @@
 
 ## Current version
 
-v18.5 - supplement contents links complete
+v18.6 - supplement module status labels normalized
 
 ## Current decision
 
@@ -23,6 +23,7 @@ All supplement tools now use the reader-facing/frontmatter pattern:
 - draft details in frontmatter
 - practical tool text starts immediately after the heading
 - reader-facing body no longer opens with project drafting notes
+- module frontmatter status labels now use `ready_for_reader_review_v1.0`
 
 ## Supplement contents
 

@@ -2,7 +2,7 @@
 
 ## Current version
 
-v18.3 — local supplement inventory confirmed
+v18.4 - supplement contents page complete
 
 ## Current decision
 
@@ -16,13 +16,25 @@ The 35-chapter main book sequence has been conceptually checked.
 
 The 12-tool supplement is structurally complete.
 
-Reader-facing supplement tightening is complete for Tools 1–12.
+Reader-facing supplement tightening is complete for Tools 1-12.
 
 All supplement tools now use the reader-facing/frontmatter pattern:
 
 - draft details in frontmatter
 - practical tool text starts immediately after the heading
 - reader-facing body no longer opens with project drafting notes
+
+## Supplement contents
+
+The final reader-facing supplement contents page has been created:
+
+- `manuscript/tool_supplement/CONTENTS.md`
+
+It gives:
+
+- a short introduction to the 12 tools
+- simple starting points for readers who do not know where to begin
+- a stop rule so the tools do not become another demand
 
 ## Local inventory result
 
@@ -45,7 +57,14 @@ Legacy module files are preserved in:
 
 - `manuscript/tool_supplement/archive_old_modules/`
 
-The local Git working tree was clean after verification.
+## Linked chapter title check
+
+Linked chapter titles in the supplement tools have been checked against the current main book chapter files.
+
+Known fixes completed:
+
+- Tool 10 now links Chapter 22 as `Boundaries, Exits, and Reducing Damage`.
+- Tools 11 and 12 now link Chapter 23 as `Repair, Apology, and Not Carrying Everything`.
 
 ## Supplement control notes created
 
@@ -54,12 +73,10 @@ The local Git working tree was clean after verification.
 
 ## Notes
 
-Some linked chapter titles still need checking against final chapter files.
-
 Some chapter frontmatter still needs later normalization through a safer patch workflow or local checkout.
 
 ## Next
 
-1. Check linked chapter titles against final chapter files.
-2. Create final supplement contents page now that local inventory confirms no extra active module files.
-3. Normalize chapter front matter later through a safer patch workflow or local checkout.
+1. Normalize chapter frontmatter later through a safer patch workflow or local checkout.
+2. Review the final supplement as a reader-facing section.
+3. Decide whether the supplement should be included before or after the main book in the final export.

@@ -1,12 +1,11 @@
+---
+tool: 9
+title: The Transition Bridge
+status: draft_v0.2
+linked_chapters: [10, 11, 17, 18, 31, 34]
+---
+
 # Tool 9 — The Transition Bridge
-
-## Status
-
-Draft v0.1.
-
-Created from the current 12-tool supplement sequence.
-
-This tool supports transitions, routines, weekly pacing, and getting unstuck.
 
 ## What this tool is for
 

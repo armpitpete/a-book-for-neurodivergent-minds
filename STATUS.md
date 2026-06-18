@@ -2,7 +2,7 @@
 
 ## Current version
 
-v17.4 — Tool 10 draft created
+v17.5 — Tool 11 format updated
 
 ## Current decision
 
@@ -45,6 +45,7 @@ Created current-structure module drafts:
 Updated existing modules:
 
 - Tool 8 — Noise Budget now matches the current module format
+- Tool 11 — The Misread Map now matches the current module format
 
 ## Notes
 
@@ -71,8 +72,7 @@ Some chapter frontmatter still needs later normalization through a safer patch w
 
 ## Next
 
-1. Review Tool 11 — The Misread Map against the new module format.
-2. Review Tool 12 — The Quiet Handover against the new module format.
-3. Run the local module folder inventory when at the PC.
-4. Normalize front matter later through a safer patch workflow or local checkout.
-5. Mark the 35-chapter main book sequence clean when chapter statuses are trustworthy.
+1. Review Tool 12 — The Quiet Handover against the new module format.
+2. Run the local module folder inventory when at the PC.
+3. Normalize front matter later through a safer patch workflow or local checkout.
+4. Mark the 35-chapter main book sequence clean when chapter statuses are trustworthy.

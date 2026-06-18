@@ -2,7 +2,7 @@
 
 ## Current version
 
-v15.4 — current frontmatter audit complete
+v15.5 — chapter 2 normalized, chapter 3 blocked by connector
 
 ## Current decision
 
@@ -16,7 +16,9 @@ Chapter 6 needs a later readability check.
 
 Current frontmatter audit found mixed status labels across Chapters 1–28.
 
-Chapters 2, 3, and 7–28 are currently marked `draft_v0.1` and `draft_needs_review` in their live chapter files.
+Chapters 3 and 7–28 are currently marked `draft_v0.1` and `draft_needs_review` in their live chapter files.
+
+Chapter 3 passed the flow check, but its frontmatter-only update was blocked by the connector safety layer during the write attempt.
 
 Chapters 1, 4, and 5 have older cleaned/strong labels.
 
@@ -82,12 +84,14 @@ The full 35-chapter sequence inventory is complete, but the main book should not
 - no duplicate chapter numbers found
 - current frontmatter audit for Chapters 1–28 complete
 - current frontmatter audit note created
+- Chapters 2–3 checked against Chapters 1 and 4
+- Chapter 2 frontmatter normalized
+- Chapters 2–3 check note created
 
 ## Next
 
-1. Check Chapters 2–3 against Chapters 1 and 4
-2. Normalize Chapters 2–3 front matter if they pass
-3. Continue status normalization in batches: 7–12, 13–17, 18–23, 24–28
-4. Do Chapter 6 readability check
-5. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy
-6. Plan 12-tool supplement sequence
+1. Retry Chapter 3 frontmatter normalization later, preferably through a local checkout if connector blocks again
+2. Continue status normalization in batches: 7–12, 13–17, 18–23, 24–28
+3. Do Chapter 6 readability check
+4. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy
+5. Plan 12-tool supplement sequence

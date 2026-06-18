@@ -2,7 +2,7 @@
 
 ## Current version
 
-v18.0 — supplement tools 4–6 tightened
+v18.1 — supplement tools 7–9 tightened
 
 ## Current decision
 
@@ -31,6 +31,9 @@ Reader-facing supplement tightening completed so far:
 - Tool 4 — reader-facing opening tightened; draft details moved into frontmatter
 - Tool 5 — reader-facing opening tightened; draft details moved into frontmatter
 - Tool 6 — reader-facing opening tightened; draft details moved into frontmatter
+- Tool 7 — reader-facing opening tightened; draft details moved into frontmatter
+- Tool 8 — reader-facing opening tightened; draft details moved into frontmatter
+- Tool 9 — reader-facing opening tightened; draft details moved into frontmatter
 
 ## Notes
 
@@ -40,7 +43,7 @@ Some chapter frontmatter still needs later normalization through a safer patch w
 
 ## Next
 
-1. Tighten Tools 7–9 in the same reader-facing/frontmatter pattern.
+1. Tighten Tools 10–12 in the same reader-facing/frontmatter pattern.
 2. Run the local module folder inventory when at the PC.
 3. Check linked chapter titles against final chapter files.
 4. Normalize chapter front matter later through a safer patch workflow or local checkout.

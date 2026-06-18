@@ -2,7 +2,7 @@
 
 ## Current version
 
-v15.8 — chapters 18–23 checked, normalization pending
+v15.9 — chapters 24–28 checked, normalization pending
 
 ## Current decision
 
@@ -18,7 +18,7 @@ No missing chapter numbers were found.
 
 No duplicate chapter numbers were found.
 
-The conceptual 35-chapter sequence works so far.
+The conceptual 35-chapter sequence works.
 
 ## Status notes
 
@@ -34,6 +34,8 @@ Chapters 13–17 passed their sequence batch check.
 
 Chapters 18–23 passed their sequence batch check.
 
+Chapters 24–28 passed their sequence batch check.
+
 Chapter 6 still needs a later readability check.
 
 Several early and middle chapters still need frontmatter normalization through a safer patch workflow or local checkout.
@@ -44,13 +46,13 @@ Several early and middle chapters still need frontmatter normalization through a
 - `manuscript/main_book/07_12_CHECK_NOTE.md`
 - `manuscript/main_book/13_17_CHECK_NOTE.md`
 - `manuscript/main_book/18_23_CHECK_NOTE.md`
+- `manuscript/main_book/24_28_CHECK_NOTE.md`
 - `manuscript/main_book/CURRENT_FRONTMATTER_AUDIT.md`
 - `manuscript/main_book/SEQUENCE_CHECK.md`
 
 ## Next
 
-1. Check Chapters 24–28 as the final early/middle sequence batch.
-2. Do Chapter 6 readability check.
-3. Normalize front matter later through a safer patch workflow or local checkout.
-4. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy.
-5. Plan 12-tool supplement sequence.
+1. Do Chapter 6 readability check.
+2. Normalize front matter later through a safer patch workflow or local checkout.
+3. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy.
+4. Plan 12-tool supplement sequence.

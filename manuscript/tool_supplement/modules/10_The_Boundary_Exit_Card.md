@@ -146,5 +146,5 @@ The tool has worked if pressure, contact, input, or risk has reduced.
 - Chapter 13 — Social Confusion and After-Analysis
 - Chapter 14 — Rejection Sensitivity and Fear of Getting It Wrong
 - Chapter 21 — Communication Without Guesswork
-- Chapter 22 — Boundaries, Exits, and Saying No
+- Chapter 22 — Boundaries, Exits, and Reducing Damage
 - Chapter 25 — Work, School, and Being Treated Fairly

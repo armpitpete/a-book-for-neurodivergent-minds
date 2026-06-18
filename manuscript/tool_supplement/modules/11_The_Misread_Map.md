@@ -158,6 +158,6 @@ The tool has worked if the situation is clearer and the next step is repair, cla
 - Chapter 13 — Social Confusion and After-Analysis
 - Chapter 14 — Rejection Sensitivity and Fear of Getting It Wrong
 - Chapter 21 — Communication Without Guesswork
-- Chapter 23 — Repair, Apology, and Trying Again
+- Chapter 23 — Repair, Apology, and Not Carrying Everything
 - Chapter 24 — Friendship, Love, and Being Misread
 - Chapter 35 — Using This Book Without Turning It Into Another Demand

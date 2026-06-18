@@ -148,7 +148,7 @@ The tool has worked if the other person has the most useful information first.
 - Chapter 5 — Shutdown
 - Chapter 20 — Asking for Help Without Having to Perform Distress
 - Chapter 21 — Communication Without Guesswork
-- Chapter 23 — Repair, Apology, and Trying Again
+- Chapter 23 — Repair, Apology, and Not Carrying Everything
 - Chapter 28 — Health, Appointments, and Being Believed
 - Chapter 34 — Keeping Things Going Without Starting Over
 - Chapter 35 — Using This Book Without Turning It Into Another Demand

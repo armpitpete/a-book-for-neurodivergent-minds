@@ -2,7 +2,7 @@
 
 ## Current version
 
-v16.5 — Tool 1 draft created
+v16.6 — Tool 2 draft created
 
 ## Current decision
 
@@ -33,6 +33,8 @@ A local inventory task note has been created.
 The previous uploaded ZIP has been checked. It contains a Tool Index/Script Library and a Chapter-Module Template, but not separate current module files.
 
 Tool 1 — The One-Pressure Check has been created as a current-structure draft.
+
+Tool 2 — The Good-Enough Line has been created as a current-structure draft.
 
 ## Status notes
 
@@ -74,13 +76,14 @@ The older uploaded 6-card tool index should be treated as source material, not a
 ## Tool module drafts
 
 - Tool 1 — `manuscript/tool_supplement/modules/01_The_One_Pressure_Check.md`
+- Tool 2 — `manuscript/tool_supplement/modules/02_The_Good_Enough_Line.md`
 - Tool 8 — confirmed existing anchor
 - Tool 11 — confirmed existing anchor
 - Tool 12 — confirmed existing anchor
 
 ## Next
 
-1. Create Tool 2 — The Good-Enough Line.
+1. Create Tool 3 — The Next Safe Step.
 2. Continue creating missing module drafts from the proposed 12-tool sequence.
 3. Keep Tools 8, 11, and 12 anchored unless a local inventory proves otherwise.
 4. Run the local module folder inventory when at the PC.

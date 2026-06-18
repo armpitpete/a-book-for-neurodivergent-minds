@@ -2,7 +2,7 @@
 
 ## Current version
 
-v17.7 — supplement contents check note created
+v17.8 — supplement consistency check note created
 
 ## Current decision
 
@@ -46,9 +46,10 @@ Updated existing modules to current format:
 
 All planned 12 supplement tool positions now have either a draft or an updated existing module.
 
-A supplement contents/check note has been created:
+Supplement control notes created:
 
 - `manuscript/tool_supplement/SUPPLEMENT_CONTENTS_CHECK_NOTE.md`
+- `manuscript/tool_supplement/SUPPLEMENT_CONSISTENCY_CHECK_NOTE.md`
 
 ## Notes
 
@@ -73,10 +74,12 @@ Some chapter frontmatter still needs later normalization through a safer patch w
 - `manuscript/tool_supplement/LOCAL_TOOL_INVENTORY_TASK.md`
 - `manuscript/tool_supplement/PREVIOUS_UPLOAD_TOOL_SOURCE_NOTE.md`
 - `manuscript/tool_supplement/SUPPLEMENT_CONTENTS_CHECK_NOTE.md`
+- `manuscript/tool_supplement/SUPPLEMENT_CONSISTENCY_CHECK_NOTE.md`
 
 ## Next
 
 1. Run the local module folder inventory when at the PC.
-2. Check supplement consistency for wording, repeated phrases, and length.
-3. Normalize front matter later through a safer patch workflow or local checkout.
-4. Mark the 35-chapter main book sequence clean when chapter statuses are trustworthy.
+2. Do a focused tightening pass on the supplement tools.
+3. Decide whether drafting status belongs in frontmatter rather than body text.
+4. Check linked chapter titles against final chapter files.
+5. Normalize chapter front matter later through a safer patch workflow or local checkout.

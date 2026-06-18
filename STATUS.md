@@ -2,7 +2,7 @@
 
 ## Current version
 
-v15.1 — 35 checked and cleaned
+v15.2 — sequence check report started
 
 ## Current decision
 
@@ -13,6 +13,8 @@ Each chapter must work on its own.
 ## Known issue
 
 Chapter numbering needs a later sequence check.
+
+The full 35-chapter sequence cannot be marked clean until Chapters 1–28 titles and filenames are visible in one inventory.
 
 ## Done
 
@@ -66,9 +68,12 @@ Chapter numbering needs a later sequence check.
 - 35 drafted
 - 35 checked
 - 35 cleaned
+- sequence check report started
+- 29–35 closing arc checked
 
 ## Next
 
-1. Check full 35-chapter sequence
-2. Resolve chapter numbering issues
-3. Plan 12-tool supplement sequence
+1. Retrieve full chapter inventory for Chapters 1–28
+2. Complete full 35-chapter sequence check
+3. Resolve chapter numbering issues
+4. Plan 12-tool supplement sequence

@@ -2,7 +2,7 @@
 
 ## Current version
 
-v16.1 — tool supplement sequence plan drafted
+v16.2 — partial tool module inventory complete
 
 ## Current decision
 
@@ -24,6 +24,8 @@ Chapter 6 passed its readability check.
 
 The 12-tool supplement now has a proposed sequence plan.
 
+A partial connector-based tool module inventory has confirmed Tools 8, 11, and 12.
+
 ## Status notes
 
 Chapters 29–35 are checked and cleaned.
@@ -42,7 +44,7 @@ Chapters 24–28 passed their sequence batch check.
 
 Several early and middle chapters still need frontmatter normalization through a safer patch workflow or local checkout.
 
-The existing tool module files still need to be inventoried from a local checkout.
+The existing tool module folder still needs a full local inventory.
 
 ## Check notes created
 
@@ -55,10 +57,12 @@ The existing tool module files still need to be inventoried from a local checkou
 - `manuscript/main_book/CURRENT_FRONTMATTER_AUDIT.md`
 - `manuscript/main_book/SEQUENCE_CHECK.md`
 - `manuscript/tool_supplement/TOOL_SUPPLEMENT_SEQUENCE_PLAN.md`
+- `manuscript/tool_supplement/TOOL_MODULE_INVENTORY_NOTE.md`
 
 ## Next
 
-1. Inventory existing tool module files from a local checkout.
+1. Run local folder inventory for `manuscript/tool_supplement/modules`.
 2. Compare existing module names against the proposed 12-tool sequence.
-3. Normalize front matter later through a safer patch workflow or local checkout.
-4. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy.
+3. Decide whether to create missing modules or rename/reorder existing modules.
+4. Normalize front matter later through a safer patch workflow or local checkout.
+5. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy.

@@ -1,9 +1,9 @@
 ---
 chapter: 34
 title: Keeping Things Going Without Starting Over
-status: draft_v0.1
+status: draft_v0.2
 source: manuscript/main_book/34_CHAPTER_BRIEF.md
-standalone_status: draft_needs_review
+standalone_status: checked
 ---
 
 # Keeping Things Going Without Starting Over
@@ -52,6 +52,10 @@ This chapter has one main point:
 The important skill is not never dropping it.
 
 The important skill is knowing how to return.
+
+Chapter 33 was about getting help without being taken over.
+
+Chapter 34 is about keeping useful supports and changes alive over time, even when they slip.
 
 ## If you can only read one thing
 
@@ -385,8 +389,7 @@ Use these headings:
 2. Where does it usually slip?
 3. What is the smallest useful return point?
 4. How can I make the return point visible?
-5. Does this need maintenance, adjustment, or replacement?
-6. What is the bad-day version?
+5. Does this need maintenance, adjustment, replacement, or a bad-day version?
 
 Keep it short.
 
@@ -435,6 +438,10 @@ Chapter 32 explains resetting after a plan goes wrong.
 Chapter 33 explains getting help without being taken over.
 
 This chapter is about keeping useful supports alive over time.
+
+Chapter 33 asks what help would make the next step possible.
+
+Chapter 34 asks how to keep useful supports and changes returnable after they slip.
 
 You do not need perfect consistency here.
 

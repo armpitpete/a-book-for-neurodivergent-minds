@@ -1,7 +1,7 @@
 ---
 tool: 10
 title: The Boundary/Exit Card
-status: draft_v0.2
+status: ready_for_reader_review_v1.0
 linked_chapters: [6, 13, 14, 21, 22, 25]
 source_notes: older Tool Index Exit Early and Boring + Bounded ideas
 ---

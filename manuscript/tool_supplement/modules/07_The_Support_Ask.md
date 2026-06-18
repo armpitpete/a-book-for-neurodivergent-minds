@@ -1,7 +1,7 @@
 ---
 tool: 7
 title: The Support Ask
-status: draft_v0.2
+status: ready_for_reader_review_v1.0
 linked_chapters: [20, 21, 25, 28, 33, 35]
 source_notes: older Tool Index scripts, appointments, nonverbal and phone-card material
 ---

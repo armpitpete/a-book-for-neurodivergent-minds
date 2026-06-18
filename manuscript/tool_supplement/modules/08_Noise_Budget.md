@@ -1,7 +1,7 @@
 ---
 tool: 8
 title: Noise Budget
-status: expanded_draft_v0.3
+status: ready_for_reader_review_v1.0
 linked_chapters: [4, 6, 9, 10, 15, 16]
 source_notes: original shelf/load idea
 ---

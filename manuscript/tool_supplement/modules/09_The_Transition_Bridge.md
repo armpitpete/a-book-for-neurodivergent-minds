@@ -1,7 +1,7 @@
 ---
 tool: 9
 title: The Transition Bridge
-status: draft_v0.2
+status: ready_for_reader_review_v1.0
 linked_chapters: [10, 11, 17, 18, 31, 34]
 ---
 

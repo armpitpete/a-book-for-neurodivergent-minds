@@ -1,7 +1,7 @@
 ---
 tool: 11
 title: The Misread Map
-status: expanded_draft_v0.4
+status: ready_for_reader_review_v1.0
 linked_chapters: [13, 14, 21, 23, 24, 35]
 source_notes: plain intent/impact wording
 ---

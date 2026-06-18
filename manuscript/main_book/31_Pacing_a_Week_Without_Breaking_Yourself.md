@@ -1,9 +1,9 @@
 ---
 chapter: 31
 title: Pacing a Week Without Breaking Yourself
-status: draft_v0.1
+status: draft_v0.2
 source: manuscript/main_book/31_CHAPTER_BRIEF.md
-standalone_status: draft_needs_review
+standalone_status: checked
 ---
 
 # Pacing a Week Without Breaking Yourself
@@ -44,6 +44,12 @@ You are not failing because you cannot fill every gap.
 Some gaps are not wasted.
 
 Some gaps are what stop the week from breaking you.
+
+Chapter 30 looked at repeated breaking points in life.
+
+This chapter looks at the next week.
+
+That keeps the task smaller.
 
 ## If you can only read one thing
 
@@ -315,11 +321,15 @@ Minimum safe is not failure.
 
 It is a way to protect the week when capacity is low.
 
+It can still include something pleasant if there is room.
+
+The point is to stop the week becoming more damaging.
+
 ## A simple weekly load scan
 
 You can scan the week without making a perfect planner.
 
-Use four marks.
+Use four quick marks.
 
 ### 1. Fixed
 
@@ -511,11 +521,9 @@ Use these headings:
 1. Fixed demands:
 2. Hard points:
 3. Recovery needed:
-4. Movable demands:
-5. Optional extras:
-6. One thing to remove or move:
-7. One basic to protect:
-8. One margin space to keep:
+4. Movable or optional demands:
+5. One demand to move, reduce, or remove:
+6. One basic or margin space to protect:
 
 Keep it short.
 
@@ -566,6 +574,10 @@ Chapter 29 explains rest and recovery.
 Chapter 30 explains repeated breaking points and life structure.
 
 This chapter uses those ideas at the scale of one week.
+
+Chapter 30 asks why a pattern keeps breaking you.
+
+Chapter 31 asks how to protect the next week from carrying too much.
 
 You do not need to plan your whole life here.
 

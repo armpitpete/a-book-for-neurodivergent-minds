@@ -2,7 +2,7 @@
 
 ## Current version
 
-v17.0 — Tool 6 draft created
+v17.1 — Tool 7 draft created
 
 ## Current decision
 
@@ -38,6 +38,7 @@ Created current-structure module drafts:
 - Tool 4 — The Capacity Check
 - Tool 5 — The Body Floor Check
 - Tool 6 — The Choice Shrinker
+- Tool 7 — The Support Ask
 
 ## Notes
 
@@ -64,9 +65,10 @@ Some chapter frontmatter still needs later normalization through a safer patch w
 
 ## Next
 
-1. Create Tool 7 — The Support Ask.
-2. Continue creating missing module drafts from the proposed 12-tool sequence.
-3. Keep Tools 8, 11, and 12 anchored unless a local inventory proves otherwise.
-4. Run the local module folder inventory when at the PC.
-5. Normalize front matter later through a safer patch workflow or local checkout.
-6. Mark the 35-chapter main book sequence clean when chapter statuses are trustworthy.
+1. Review Tool 8 — Noise Budget against the new module format.
+2. Create Tool 9 — The Transition Bridge.
+3. Continue creating missing module drafts from the proposed 12-tool sequence.
+4. Keep Tools 8, 11, and 12 anchored unless a local inventory proves otherwise.
+5. Run the local module folder inventory when at the PC.
+6. Normalize front matter later through a safer patch workflow or local checkout.
+7. Mark the 35-chapter main book sequence clean when chapter statuses are trustworthy.

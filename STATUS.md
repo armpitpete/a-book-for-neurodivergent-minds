@@ -2,7 +2,7 @@
 
 ## Current version
 
-v16.8 — Tool 4 draft created
+v16.9 — Tool 5 draft created
 
 ## Current decision
 
@@ -39,6 +39,8 @@ Tool 2 — The Good-Enough Line has been created as a current-structure draft.
 Tool 3 — The Next Safe Step has been created as a current-structure draft.
 
 Tool 4 — The Capacity Check has been created as a current-structure draft.
+
+Tool 5 — The Body Floor Check has been created as a current-structure draft.
 
 ## Status notes
 
@@ -83,13 +85,14 @@ The older uploaded 6-card tool index should be treated as source material, not a
 - Tool 2 — `manuscript/tool_supplement/modules/02_The_Good_Enough_Line.md`
 - Tool 3 — `manuscript/tool_supplement/modules/03_The_Next_Safe_Step.md`
 - Tool 4 — `manuscript/tool_supplement/modules/04_The_Capacity_Check.md`
+- Tool 5 — `manuscript/tool_supplement/modules/05_The_Body_Floor_Check.md`
 - Tool 8 — confirmed existing anchor
 - Tool 11 — confirmed existing anchor
 - Tool 12 — confirmed existing anchor
 
 ## Next
 
-1. Create Tool 5 — The Body Floor Check.
+1. Create Tool 6 — The Choice Shrinker.
 2. Continue creating missing module drafts from the proposed 12-tool sequence.
 3. Keep Tools 8, 11, and 12 anchored unless a local inventory proves otherwise.
 4. Run the local module folder inventory when at the PC.

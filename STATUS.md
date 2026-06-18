@@ -2,7 +2,7 @@
 
 ## Current version
 
-v16.6 — Tool 2 draft created
+v16.7 — Tool 3 draft created
 
 ## Current decision
 
@@ -35,6 +35,8 @@ The previous uploaded ZIP has been checked. It contains a Tool Index/Script Libr
 Tool 1 — The One-Pressure Check has been created as a current-structure draft.
 
 Tool 2 — The Good-Enough Line has been created as a current-structure draft.
+
+Tool 3 — The Next Safe Step has been created as a current-structure draft.
 
 ## Status notes
 
@@ -77,13 +79,14 @@ The older uploaded 6-card tool index should be treated as source material, not a
 
 - Tool 1 — `manuscript/tool_supplement/modules/01_The_One_Pressure_Check.md`
 - Tool 2 — `manuscript/tool_supplement/modules/02_The_Good_Enough_Line.md`
+- Tool 3 — `manuscript/tool_supplement/modules/03_The_Next_Safe_Step.md`
 - Tool 8 — confirmed existing anchor
 - Tool 11 — confirmed existing anchor
 - Tool 12 — confirmed existing anchor
 
 ## Next
 
-1. Create Tool 3 — The Next Safe Step.
+1. Create Tool 4 — The Capacity Check.
 2. Continue creating missing module drafts from the proposed 12-tool sequence.
 3. Keep Tools 8, 11, and 12 anchored unless a local inventory proves otherwise.
 4. Run the local module folder inventory when at the PC.

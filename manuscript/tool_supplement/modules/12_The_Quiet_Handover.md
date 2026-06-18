@@ -1,7 +1,7 @@
 ---
 tool: 12
 title: The Quiet Handover
-status: expanded_draft_v0.3
+status: ready_for_reader_review_v1.0
 linked_chapters: [5, 20, 21, 23, 28, 34, 35]
 source_notes: original important-part-first handover idea
 ---

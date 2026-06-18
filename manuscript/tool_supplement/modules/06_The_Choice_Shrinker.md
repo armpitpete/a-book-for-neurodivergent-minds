@@ -1,7 +1,7 @@
 ---
 tool: 6
 title: The Choice Shrinker
-status: draft_v0.2
+status: ready_for_reader_review_v1.0
 linked_chapters: [10, 18, 19, 26, 31, 35]
 ---
 

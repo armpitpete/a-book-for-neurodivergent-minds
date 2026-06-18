@@ -1,7 +1,7 @@
 ---
 tool: 1
 title: The One-Pressure Check
-status: draft_v0.2
+status: ready_for_reader_review_v1.0
 linked_chapters: [1, 3, 4, 6, 18]
 ---
 

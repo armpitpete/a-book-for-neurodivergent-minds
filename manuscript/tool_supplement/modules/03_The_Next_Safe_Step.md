@@ -1,7 +1,7 @@
 ---
 tool: 3
 title: The Next Safe Step
-status: draft_v0.2
+status: ready_for_reader_review_v1.0
 linked_chapters: [1, 18, 19, 26, 27, 35]
 ---
 

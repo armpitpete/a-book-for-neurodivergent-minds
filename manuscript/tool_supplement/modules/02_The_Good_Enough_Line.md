@@ -1,7 +1,7 @@
 ---
 tool: 2
 title: The Good-Enough Line
-status: draft_v0.2
+status: ready_for_reader_review_v1.0
 linked_chapters: [18, 19, 29, 31, 35]
 ---
 

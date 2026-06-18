@@ -2,7 +2,7 @@
 
 ## Current version
 
-v14.1 — 34 checked and cleaned
+v15.0 — 35 drafted
 
 ## Current decision
 
@@ -61,9 +61,12 @@ Chapter numbering needs a later sequence check.
 - 34 drafted
 - 34 checked
 - 34 cleaned
+- 35 planned
+- 35 briefed
+- 35 drafted
 
 ## Next
 
-1. Draft Chapter 35
-2. Check Chapter 35 on its own
+1. Check Chapter 35 on its own
+2. Clean Chapter 35 if needed
 3. Check full 35-chapter sequence

@@ -2,7 +2,7 @@
 
 ## Draft completed
 
-Chapter 35 has a first working draft.
+Chapter 35 has a checked and cleaned working draft.
 
 ## Chosen title
 
@@ -35,23 +35,37 @@ Chapter 35 explains how to use the book safely, selectively, and without turning
 - Added practical scripts.
 - Ended with three quick-summary bullets.
 
-## Boundary notes
+## Standalone check
 
-Chapter 34 is the return-points chapter.
+Chapter 35 works on its own.
 
-Chapter 35 is the final main-book use-this-book-safely chapter.
+A reader can understand the main point without reading Chapter 34:
 
-It should not become a vague motivational ending or a full supplement guide.
+> You are not a problem to solve.
+
+The chapter gives a practical closing frame: choose by need, take one small thing, use the action sizes without pressure, use scripts without apology, leave what does not fit, return later, and use the supplement as support rather than homework.
+
+## Main-book closing check
+
+The ending is practical rather than motivational fluff.
+
+It does not introduce a new large system.
+
+It gives the reader permission to use the book in pieces and then hands off to the 12-tool supplement without making the supplement sound compulsory.
+
+## Cleaning done
+
+- Updated front matter from `draft_v0.1` to `draft_v0.2`.
+- Updated `standalone_status` from `draft_needs_review` to `checked`.
+- Added a clearer Chapter 34 / Chapter 35 boundary near the opening.
+- Reduced repeated “book is not a test” wording in the short version.
+- Cleaned the supplement handoff so it says the supplement comes after the main book and is not extra homework.
 
 ## Current status
 
-Draft v0.1.
+Checked and cleaned draft v0.2.
 
 ## Later checks
 
-- Check Chapter 35 on its own.
-- Check whether the ending is practical and not motivational fluff.
-- Check whether the supplement mention is useful but not detailed.
-- Check whether “you are not a problem to solve” is placed clearly and not overused.
 - Check full 35-chapter sequence.
 - Resolve the wider chapter-numbering conflict later.

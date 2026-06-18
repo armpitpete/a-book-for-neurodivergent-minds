@@ -1,9 +1,9 @@
 ---
 chapter: 30
 title: Building a Life That Does Not Keep Breaking You
-status: draft_v0.1
+status: draft_v0.2
 source: manuscript/main_book/30_CHAPTER_BRIEF.md
-standalone_status: draft_needs_review
+standalone_status: checked
 ---
 
 # Building a Life That Does Not Keep Breaking You
@@ -30,7 +30,7 @@ This chapter has one main point:
 
 > if the same pattern keeps breaking you, the problem may not be your character.
 
-The structure may be wrong.
+The structure may be carrying too much.
 
 A life structure is the shape around your day.
 
@@ -40,7 +40,11 @@ If the structure gives you too much demand and not enough support, you may keep 
 
 That is not proof that you are weak.
 
-It may be proof that the system around you needs changing.
+It may be proof that the setup around you needs changing.
+
+This is not a blame exercise.
+
+It is a way to find one place where life could become less damaging.
 
 ## If you can only read one thing
 
@@ -569,9 +573,7 @@ Examples:
 - fewer decisions after school
 - no heavy admin after a medical appointment
 
-This does not repeat Chapter 29.
-
-Chapter 29 explains recovery.
+Chapter 29 explains recovery in more detail.
 
 Here, recovery is part of the life structure.
 
@@ -744,7 +746,7 @@ You are not failing if:
 
 If the same pattern keeps breaking you, the problem may not be your character.
 
-The structure may need changing.
+The structure may be carrying too much.
 
 ## Quick summary
 

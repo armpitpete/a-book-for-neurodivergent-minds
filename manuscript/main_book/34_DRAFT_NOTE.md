@@ -2,7 +2,7 @@
 
 ## Draft completed
 
-Chapter 34 has a first working draft.
+Chapter 34 has a checked and cleaned working draft.
 
 ## Chosen title
 
@@ -32,24 +32,44 @@ Chapter 34 explains how to return to useful things without treating every slip a
 - Linked back to Chapters 29, 30, 31, 32, and 33.
 - Ended with three quick-summary bullets.
 
-## Boundary notes
+## Standalone check
+
+Chapter 34 works on its own.
+
+A reader can understand the main point without reading Chapter 33:
+
+> A useful thing does not have to work perfectly to still be worth keeping.
+
+The chapter gives clear examples of useful things, return points, maintenance, adjustment, replacement, bad-day versions, breadcrumbs, small actions, scripts, and reassurance.
+
+## Overlap check with Chapter 33
 
 Chapter 33 is the support-without-being-taken-over chapter.
 
 Chapter 34 is the return-points and maintenance chapter.
 
-It should not become the final book conclusion, a full life philosophy chapter, a productivity system, or a crisis plan.
+The overlap is acceptable because Chapter 34 treats support as one kind of useful thing that may need return points. It does not repeat bounded-help requests.
+
+The link-back section now states the boundary clearly:
+
+> Chapter 33 asks what help would make the next step possible.
+>
+> Chapter 34 asks how to keep useful supports and changes returnable after they slip.
+
+## Cleaning done
+
+- Updated front matter from `draft_v0.1` to `draft_v0.2`.
+- Updated `standalone_status` from `draft_needs_review` to `checked`.
+- Added a clearer Chapter 33 / Chapter 34 boundary near the opening.
+- Reduced the 30-minute return point map from six headings to five headings.
+- Combined the bad-day-version question into the maintenance / adjustment / replacement heading.
+- Added explicit Chapter 33 / Chapter 34 boundary wording in the link-back section.
 
 ## Current status
 
-Draft v0.1.
+Checked and cleaned draft v0.2.
 
 ## Later checks
 
-- Check Chapter 34 on its own.
-- Check overlap with Chapter 33.
-- Check whether “return point” is clear enough.
-- Check whether the maintenance / adjustment / replacement section is too abstract.
-- Check whether the chapter avoids productivity and streak culture.
 - Check against Chapter 35 when Chapter 35 exists.
 - Resolve the wider chapter-numbering conflict later.

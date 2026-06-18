@@ -20,18 +20,18 @@ A tool has worked if it makes the next moment smaller, safer, clearer, or easier
 
 | Tool | Name | Use it when |
 |---:|---|---|
-| 1 | The One-Pressure Check | Everything feels too much and you need to reduce one pressure now. |
-| 2 | The Good-Enough Line | You need to stop before a task becomes endless. |
-| 3 | The Next Safe Step | You are stuck and need one small next action. |
-| 4 | The Capacity Check | You need to know what you can realistically do today. |
-| 5 | The Body Floor Check | Food, drink, pain, sleep, or body basics may be making everything harder. |
-| 6 | The Choice Shrinker | Too many options are stopping you from starting. |
-| 7 | The Support Ask | You need help but cannot explain everything. |
-| 8 | Noise Budget | Sensory, social, or task noise is building up. |
-| 9 | The Transition Bridge | Moving from one thing to another is hard. |
-| 10 | The Boundary/Exit Card | You need to pause, leave, say no, or reduce contact safely. |
-| 11 | The Misread Map | You may have been misunderstood, or you are replaying a social moment. |
-| 12 | The Quiet Handover | You need to pass on important information when speech or energy is limited. |
+| 1 | [The One-Pressure Check](modules/01_The_One_Pressure_Check.md) | Everything feels too much and you need to reduce one pressure now. |
+| 2 | [The Good-Enough Line](modules/02_The_Good_Enough_Line.md) | You need to stop before a task becomes endless. |
+| 3 | [The Next Safe Step](modules/03_The_Next_Safe_Step.md) | You are stuck and need one small next action. |
+| 4 | [The Capacity Check](modules/04_The_Capacity_Check.md) | You need to know what you can realistically do today. |
+| 5 | [The Body Floor Check](modules/05_The_Body_Floor_Check.md) | Food, drink, pain, sleep, or body basics may be making everything harder. |
+| 6 | [The Choice Shrinker](modules/06_The_Choice_Shrinker.md) | Too many options are stopping you from starting. |
+| 7 | [The Support Ask](modules/07_The_Support_Ask.md) | You need help but cannot explain everything. |
+| 8 | [Noise Budget](modules/08_Noise_Budget.md) | Sensory, social, or task noise is building up. |
+| 9 | [The Transition Bridge](modules/09_The_Transition_Bridge.md) | Moving from one thing to another is hard. |
+| 10 | [The Boundary/Exit Card](modules/10_The_Boundary_Exit_Card.md) | You need to pause, leave, say no, or reduce contact safely. |
+| 11 | [The Misread Map](modules/11_The_Misread_Map.md) | You may have been misunderstood, or you are replaying a social moment. |
+| 12 | [The Quiet Handover](modules/12_The_Quiet_Handover.md) | You need to pass on important information when speech or energy is limited. |
 
 ## Simple starting points
 

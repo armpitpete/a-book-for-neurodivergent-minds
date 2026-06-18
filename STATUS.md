@@ -2,7 +2,7 @@
 
 ## Current version
 
-v16.2 — partial tool module inventory complete
+v16.3 — local tool inventory task prepared
 
 ## Current decision
 
@@ -25,6 +25,10 @@ Chapter 6 passed its readability check.
 The 12-tool supplement now has a proposed sequence plan.
 
 A partial connector-based tool module inventory has confirmed Tools 8, 11, and 12.
+
+The connector confirmed that `manuscript/tool_supplement/modules` is a real directory, but it cannot list the directory contents in this workflow.
+
+A local inventory task note has been created.
 
 ## Status notes
 
@@ -58,11 +62,13 @@ The existing tool module folder still needs a full local inventory.
 - `manuscript/main_book/SEQUENCE_CHECK.md`
 - `manuscript/tool_supplement/TOOL_SUPPLEMENT_SEQUENCE_PLAN.md`
 - `manuscript/tool_supplement/TOOL_MODULE_INVENTORY_NOTE.md`
+- `manuscript/tool_supplement/LOCAL_TOOL_INVENTORY_TASK.md`
 
 ## Next
 
-1. Run local folder inventory for `manuscript/tool_supplement/modules`.
-2. Compare existing module names against the proposed 12-tool sequence.
-3. Decide whether to create missing modules or rename/reorder existing modules.
-4. Normalize front matter later through a safer patch workflow or local checkout.
-5. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy.
+1. Run the PowerShell inventory commands in `LOCAL_TOOL_INVENTORY_TASK.md`.
+2. Paste the real module list back into ChatGPT.
+3. Compare existing module names against the proposed 12-tool sequence.
+4. Decide whether to create missing modules or rename/reorder existing modules.
+5. Normalize front matter later through a safer patch workflow or local checkout.
+6. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy.

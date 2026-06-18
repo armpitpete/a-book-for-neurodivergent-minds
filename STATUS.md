@@ -2,7 +2,7 @@
 
 ## Current version
 
-v13.0 — 33 drafted
+v13.1 — 33 checked and cleaned
 
 ## Current decision
 
@@ -54,9 +54,11 @@ Chapter numbering needs a later sequence check.
 - 33 planned
 - 33 briefed
 - 33 drafted
+- 33 checked
+- 33 cleaned
 
 ## Next
 
-1. Check Chapter 33 on its own
-2. Check Chapter 33 against Chapter 32
-3. Clean Chapter 33 if needed
+1. Draft Chapter 34
+2. Check Chapter 34 on its own
+3. Check Chapter 34 against Chapters 33 and 35 when Chapter 35 exists

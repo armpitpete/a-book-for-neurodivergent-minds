@@ -1,9 +1,9 @@
 ---
 chapter: 32
 title: When the Plan Goes Wrong
-status: draft_v0.1
+status: draft_v0.2
 source: manuscript/main_book/32_CHAPTER_BRIEF.md
-standalone_status: draft_needs_review
+standalone_status: checked
 ---
 
 # When the Plan Goes Wrong
@@ -52,6 +52,12 @@ The useful question is not:
 The useful question is:
 
 > What is the next safe step now?
+
+Chapter 31 helped you pace a week before it breaks.
+
+This chapter starts after something has already gone wrong.
+
+The task here is smaller: stop, sort, and repair one next step.
 
 ## If you can only read one thing
 
@@ -542,13 +548,11 @@ Do a reset map.
 Use these headings:
 
 1. What went wrong?
-2. What caused or added to it?
-3. What is still urgent?
-4. What can move?
-5. What can be reduced?
-6. What can be dropped?
-7. What is the minimum repair step?
-8. What protects the next day?
+2. What is still urgent?
+3. What can move, reduce, or drop?
+4. What is the minimum repair step?
+5. What protects the next day?
+6. What is one useful thing to learn?
 
 Keep the answers short.
 
@@ -560,7 +564,7 @@ It is a repair map.
 
 ### Late reply
 
-“Sorry for the delay. I can reply properly by ____.”
+“Thanks for waiting. I can reply properly by ____.”
 
 ### Missed task
 
@@ -599,6 +603,10 @@ Chapter 30 explains repeated breaking points.
 Chapter 31 explains pacing a week before it breaks.
 
 This chapter is about what to do after a plan has already gone wrong.
+
+Chapter 31 asks how to protect the week before the load breaks it.
+
+Chapter 32 asks how to reset after something has already gone wrong.
 
 You do not need to rescue the perfect plan here.
 

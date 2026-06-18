@@ -2,7 +2,7 @@
 
 ## Current version
 
-v17.6 — Tool 12 format updated
+v17.7 — supplement contents check note created
 
 ## Current decision
 
@@ -46,6 +46,10 @@ Updated existing modules to current format:
 
 All planned 12 supplement tool positions now have either a draft or an updated existing module.
 
+A supplement contents/check note has been created:
+
+- `manuscript/tool_supplement/SUPPLEMENT_CONTENTS_CHECK_NOTE.md`
+
 ## Notes
 
 The previous uploaded ZIP contains useful older tool source material and a chapter-module template, but not separate current module files.
@@ -68,10 +72,11 @@ Some chapter frontmatter still needs later normalization through a safer patch w
 - `manuscript/tool_supplement/TOOL_MODULE_INVENTORY_NOTE.md`
 - `manuscript/tool_supplement/LOCAL_TOOL_INVENTORY_TASK.md`
 - `manuscript/tool_supplement/PREVIOUS_UPLOAD_TOOL_SOURCE_NOTE.md`
+- `manuscript/tool_supplement/SUPPLEMENT_CONTENTS_CHECK_NOTE.md`
 
 ## Next
 
-1. Create a supplement contents/check note for all 12 tools.
-2. Run the local module folder inventory when at the PC.
+1. Run the local module folder inventory when at the PC.
+2. Check supplement consistency for wording, repeated phrases, and length.
 3. Normalize front matter later through a safer patch workflow or local checkout.
 4. Mark the 35-chapter main book sequence clean when chapter statuses are trustworthy.

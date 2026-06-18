@@ -42,6 +42,20 @@ During export:
 4. Combine or export the cleaned content.
 5. Do not write cleaned duplicate files back into the manuscript folders.
 
+## Run the clean Markdown export
+
+Run this from the repository root:
+
+    python scripts/export_strip_frontmatter.py
+
+The script writes cleaned Markdown files to:
+
+    build/export/markdown-clean/
+
+The build folder is ignored by Git.
+
+Do not edit the cleaned export copies as manuscript source.
+
 ## Good export result
 
 A reader-facing export should begin with the actual reader text.

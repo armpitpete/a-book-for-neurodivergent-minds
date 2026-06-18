@@ -1,12 +1,12 @@
+---
+tool: 11
+title: The Misread Map
+status: expanded_draft_v0.4
+linked_chapters: [13, 14, 21, 23, 24, 35]
+source_notes: plain intent/impact wording
+---
+
 # Tool 11 — The Misread Map
-
-## Status
-
-Expanded draft v0.3.
-
-Updated to match the current 12-tool supplement format.
-
-This tool keeps the plain intent/impact wording.
 
 ## What this tool is for
 

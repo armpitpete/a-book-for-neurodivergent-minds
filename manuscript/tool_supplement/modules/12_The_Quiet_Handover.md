@@ -1,12 +1,12 @@
+---
+tool: 12
+title: The Quiet Handover
+status: expanded_draft_v0.3
+linked_chapters: [5, 20, 21, 23, 28, 34, 35]
+source_notes: original important-part-first handover idea
+---
+
 # Tool 12 — The Quiet Handover
-
-## Status
-
-Expanded draft v0.2.
-
-Updated to match the current 12-tool supplement format.
-
-This tool keeps the original “important part first” handover idea.
 
 ## What this tool is for
 

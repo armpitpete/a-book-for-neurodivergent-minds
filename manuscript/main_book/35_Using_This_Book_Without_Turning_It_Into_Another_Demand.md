@@ -1,9 +1,9 @@
 ---
 chapter: 35
 title: Using This Book Without Turning It Into Another Demand
-status: draft_v0.1
+status: draft_v0.2
 source: manuscript/main_book/35_CHAPTER_BRIEF.md
-standalone_status: draft_needs_review
+standalone_status: checked
 ---
 
 # Using This Book Without Turning It Into Another Demand
@@ -43,6 +43,10 @@ You do not have to use everything.
 You do not have to use anything perfectly.
 
 You do not have to become a different person to be allowed an easier life.
+
+Chapter 34 explained return points for useful supports.
+
+This chapter applies that idea to the book itself.
 
 ## If you can only read one thing
 
@@ -85,9 +89,7 @@ Start here if any of these are true:
 
 ## Short version
 
-This book is not a test.
-
-It is not a demand.
+Use this book in pieces.
 
 It is not proof that you must fix yourself.
 
@@ -272,13 +274,15 @@ Do not make it another thing to keep perfectly.
 
 ## Using the supplement
 
-The tool supplement is not extra homework.
+The tool supplement comes after the main book.
 
-It is a place to find practical supports.
+It is not extra homework.
 
-Use it when you need a tool, not because you have to complete it.
+It is a place to find practical supports when a tool would help.
 
-A useful way to use the supplement is:
+You do not need to complete the supplement.
+
+A useful way to use it is:
 
 1. name the problem
 2. choose one tool that matches

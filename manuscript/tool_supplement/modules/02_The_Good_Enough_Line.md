@@ -1,12 +1,11 @@
+---
+tool: 2
+title: The Good-Enough Line
+status: draft_v0.2
+linked_chapters: [18, 19, 29, 31, 35]
+---
+
 # Tool 2 — The Good-Enough Line
-
-## Status
-
-Draft v0.1.
-
-Created from the current 12-tool supplement sequence.
-
-This tool supports planning without collapse and safe use of the book.
 
 ## What this tool is for
 

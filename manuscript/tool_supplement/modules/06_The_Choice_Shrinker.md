@@ -1,12 +1,11 @@
+---
+tool: 6
+title: The Choice Shrinker
+status: draft_v0.2
+linked_chapters: [10, 18, 19, 26, 31, 35]
+---
+
 # Tool 6 — The Choice Shrinker
-
-## Status
-
-Draft v0.1.
-
-Created from the current 12-tool supplement sequence.
-
-This tool supports decisions, demand friction, and getting unstuck.
 
 ## What this tool is for
 

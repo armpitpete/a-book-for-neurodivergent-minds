@@ -1,12 +1,12 @@
+---
+tool: 7
+title: The Support Ask
+status: draft_v0.2
+linked_chapters: [20, 21, 25, 28, 33, 35]
+source_notes: older Tool Index scripts, appointments, nonverbal and phone-card material
+---
+
 # Tool 7 — The Support Ask
-
-## Status
-
-Draft v0.1.
-
-Created from the current 12-tool supplement sequence.
-
-Uses the older Tool Index material about scripts, appointments, and nonverbal/phone cards, but keeps the current 35-chapter book structure.
 
 ## What this tool is for
 

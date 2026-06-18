@@ -2,7 +2,7 @@
 
 ## Draft completed
 
-Chapter 30 has a first working draft.
+Chapter 30 has a checked and cleaned working draft.
 
 ## Main job
 
@@ -22,16 +22,45 @@ Chapter 30 explains repeated breaking points and life structure without blaming 
 - Added practical scripts.
 - Ended with three quick-summary bullets.
 
+## Standalone check
+
+Chapter 30 works on its own.
+
+A reader can understand the main point without reading Chapter 29:
+
+> If the same pattern keeps breaking you, the problem may not be your character.
+
+The chapter gives definitions, examples, one mapping tool, small actions, scripts, and clear reassurance.
+
+## Overlap check with Chapter 29
+
+Chapter 29 is about rest, recovery, capacity loss, and choosing a recovery action.
+
+Chapter 30 uses recovery only as part of life structure.
+
+The Chapter 29 overlap is acceptable because Chapter 30 is not teaching recovery types again.
+
+The reader-facing meta sentence “This does not repeat Chapter 29” was replaced with smoother wording:
+
+> Chapter 29 explains recovery in more detail.
+>
+> Here, recovery is part of the life structure.
+
+## Cleaning done
+
+- Updated front matter from `draft_v0.1` to `draft_v0.2`.
+- Updated `standalone_status` from `draft_needs_review` to `checked`.
+- Softened “The structure may be wrong” to “The structure may be carrying too much.”
+- Softened “system around you” to “setup around you.”
+- Added a short no-blame clarification near the opening.
+- Removed one awkward reader-facing meta sentence about not repeating Chapter 29.
+- Repeated the softer structure wording near the end.
+
 ## Current status
 
-Draft v0.1.
+Checked and cleaned draft v0.2.
 
 ## Later checks
 
-- Check Chapter 30 on its own.
-- Check overlap with Chapter 29.
-- Check whether the chapter avoids becoming a full life redesign plan.
-- Check whether “structure” stays plain enough for younger readers.
-- Check whether the unsafe/unfair systems caveat is strong enough without making the chapter too heavy.
 - Check against Chapter 31 when Chapter 31 exists.
 - Resolve the wider chapter-numbering conflict later.

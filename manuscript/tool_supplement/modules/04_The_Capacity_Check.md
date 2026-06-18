@@ -1,12 +1,11 @@
+---
+tool: 4
+title: The Capacity Check
+status: draft_v0.2
+linked_chapters: [12, 15, 18, 29, 31, 35]
+---
+
 # Tool 4 — The Capacity Check
-
-## Status
-
-Draft v0.1.
-
-Created from the current 12-tool supplement sequence.
-
-This tool supports uneven skills, rest, recovery, and weekly pacing.
 
 ## What this tool is for
 

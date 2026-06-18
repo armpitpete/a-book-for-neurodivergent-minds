@@ -1,9 +1,9 @@
 ---
 chapter: 33
 title: Getting Help Without Giving Up Control
-status: draft_v0.1
+status: draft_v0.2
 source: manuscript/main_book/33_CHAPTER_BRIEF.md
-standalone_status: draft_needs_review
+standalone_status: checked
 ---
 
 # Getting Help Without Giving Up Control
@@ -35,6 +35,10 @@ This chapter has one main point:
 Help is not proof that you have failed.
 
 Help should not remove your voice.
+
+This chapter is not saying that all help is unsafe.
+
+It is saying that help works better when it is clear, respectful, and matched to what you need.
 
 Chapter 32 explained what to do after a plan has gone wrong.
 
@@ -138,6 +142,10 @@ The useful question is:
 ## Different kinds of help
 
 It helps to name the kind of help you need.
+
+You do not need to remember all these names.
+
+Pick the closest one.
 
 ### Practical help
 
@@ -456,8 +464,7 @@ Use these headings:
 2. What kind of help would make the next step possible?
 3. Who might be safe enough to ask?
 4. What exactly do I want them to do?
-5. What do I not want them to do?
-6. What do I still want to decide myself?
+5. What do I still want to decide myself?
 
 Keep it short.
 
@@ -512,6 +519,10 @@ Chapter 30 explains repeated breaking points.
 Chapter 32 explains what to do when a plan goes wrong.
 
 This chapter is about one possible next safe step: getting help without being taken over.
+
+Chapter 32 asks what the next safe step is after a plan goes wrong.
+
+Chapter 33 asks what kind of support would make that step clearer, safer, smaller, or more possible.
 
 You do not need to hand over your whole life here.
 

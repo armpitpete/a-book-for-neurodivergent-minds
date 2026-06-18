@@ -1,12 +1,11 @@
+---
+tool: 1
+title: The One-Pressure Check
+status: draft_v0.2
+linked_chapters: [1, 3, 4, 6, 18]
+---
+
 # Tool 1 — The One-Pressure Check
-
-## Status
-
-Draft v0.1.
-
-Created from the current 12-tool supplement sequence.
-
-Uses the older Tool Index idea of noticing early signals, but keeps the current 35-chapter book structure.
 
 ## What this tool is for
 

@@ -2,7 +2,7 @@
 
 ## Current version
 
-v15.6 — chapters 7–12 checked, normalization pending
+v15.7 — chapters 13–17 checked, normalization pending
 
 ## Current decision
 
@@ -10,93 +10,45 @@ v15.6 — chapters 7–12 checked, normalization pending
 
 Each chapter must work on its own.
 
-## Known issues
+## Current state
 
-Chapter 6 needs a later readability check.
+The full 1–35 chapter inventory has been recovered.
 
-Current frontmatter audit found mixed status labels across Chapters 1–28.
+No missing chapter numbers were found.
 
-Chapters 3 and 7–28 are currently marked `draft_v0.1` and `draft_needs_review` in their live chapter files.
+No duplicate chapter numbers were found.
 
-Chapter 3 passed the flow check, but its frontmatter-only update was blocked by the connector safety layer during the write attempt.
+The conceptual 35-chapter sequence works so far.
 
-Chapters 7–12 pass their batch sequence check, but their front matter has not yet been normalized because the connector is not a safe patch-only workflow for these files.
+## Status notes
 
-Chapters 1, 4, and 5 have older cleaned/strong labels.
+Chapters 29–35 are checked and cleaned.
 
-The full 35-chapter sequence inventory is complete, but the main book should not be marked fully clean until these labels are normalized after brief chapter checks.
+Chapter 2 has been normalized to `draft_v0.2` and `checked`.
 
-## Done
+Chapter 3 passed the flow check, but its frontmatter update was blocked by the connector safety layer.
 
-- Repo created
-- Structure locked
-- Sources imported
-- Chapters 1 to 17 recorded in chapter files
-- 18 checked in status history
-- 19 checked in status history
-- 20 checked in status history
-- 21 checked in status history
-- 22 checked in status history
-- 23 checked in status history
-- 24 checked in status history
-- 25 checked in status history
-- 26 checked in status history
-- 27 checked in status history
-- 28 checked in status history
-- 29 planned
-- 29 briefed
-- 29 drafted
-- 29 checked
-- 29 cleaned
-- 30 planned
-- 30 briefed
-- 30 drafted
-- 30 checked
-- 30 cleaned
-- 31 planned
-- 31 briefed
-- 31 drafted
-- 31 checked
-- 31 cleaned
-- 32 planned
-- 32 briefed
-- 32 drafted
-- 32 checked
-- 32 cleaned
-- 33 planned
-- 33 briefed
-- 33 drafted
-- 33 checked
-- 33 cleaned
-- 34 planned
-- 34 briefed
-- 34 drafted
-- 34 checked
-- 34 cleaned
-- 35 planned
-- 35 briefed
-- 35 drafted
-- 35 checked
-- 35 cleaned
-- sequence check report started
-- 29–35 closing arc checked
-- full 1–35 inventory recovered
-- conceptual 35-chapter sequence checked
-- no missing chapter numbers found
-- no duplicate chapter numbers found
-- current frontmatter audit for Chapters 1–28 complete
-- current frontmatter audit note created
-- Chapters 2–3 checked against Chapters 1 and 4
-- Chapter 2 frontmatter normalized
-- Chapters 2–3 check note created
-- Chapters 7–12 checked as a sequence batch
-- Chapters 7–12 check note created
+Chapters 7–12 passed their sequence batch check.
+
+Chapters 13–17 passed their sequence batch check.
+
+Chapter 6 still needs a later readability check.
+
+Several early and middle chapters still need frontmatter normalization through a safer patch workflow or local checkout.
+
+## Check notes created
+
+- `manuscript/main_book/02_03_CHECK_NOTE.md`
+- `manuscript/main_book/07_12_CHECK_NOTE.md`
+- `manuscript/main_book/13_17_CHECK_NOTE.md`
+- `manuscript/main_book/CURRENT_FRONTMATTER_AUDIT.md`
+- `manuscript/main_book/SEQUENCE_CHECK.md`
 
 ## Next
 
-1. Check Chapters 13–17 as the next sequence batch
-2. Normalize front matter later through a local checkout or safer patch workflow: Chapter 3 and Chapters 7–12
-3. Continue status normalization batches: 13–17, 18–23, 24–28
-4. Do Chapter 6 readability check
-5. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy
-6. Plan 12-tool supplement sequence
+1. Check Chapters 18–23 as the next sequence batch.
+2. Check Chapters 24–28 as the final early/middle sequence batch.
+3. Do Chapter 6 readability check.
+4. Normalize front matter later through a safer patch workflow or local checkout.
+5. Mark 35-chapter main book sequence clean when chapter statuses are trustworthy.
+6. Plan 12-tool supplement sequence.

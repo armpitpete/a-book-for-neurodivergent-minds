@@ -2,7 +2,7 @@
 
 ## Current version
 
-v17.5 — Tool 11 format updated
+v17.6 — Tool 12 format updated
 
 ## Current decision
 
@@ -24,11 +24,7 @@ Chapter 6 passed its readability check.
 
 The 12-tool supplement has a proposed sequence plan.
 
-Confirmed existing anchors:
-
-- Tool 8 — Noise Budget
-- Tool 11 — The Misread Map
-- Tool 12 — The Quiet Handover
+## Tool supplement state
 
 Created current-structure module drafts:
 
@@ -42,10 +38,13 @@ Created current-structure module drafts:
 - Tool 9 — The Transition Bridge
 - Tool 10 — The Boundary/Exit Card
 
-Updated existing modules:
+Updated existing modules to current format:
 
-- Tool 8 — Noise Budget now matches the current module format
-- Tool 11 — The Misread Map now matches the current module format
+- Tool 8 — Noise Budget
+- Tool 11 — The Misread Map
+- Tool 12 — The Quiet Handover
+
+All planned 12 supplement tool positions now have either a draft or an updated existing module.
 
 ## Notes
 
@@ -72,7 +71,7 @@ Some chapter frontmatter still needs later normalization through a safer patch w
 
 ## Next
 
-1. Review Tool 12 — The Quiet Handover against the new module format.
+1. Create a supplement contents/check note for all 12 tools.
 2. Run the local module folder inventory when at the PC.
 3. Normalize front matter later through a safer patch workflow or local checkout.
 4. Mark the 35-chapter main book sequence clean when chapter statuses are trustworthy.

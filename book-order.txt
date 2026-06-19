@@ -1,0 +1,49 @@
+# Book order manifest
+# Reader-facing manuscript files only.
+# Includes main chapters, supplement contents, and current supplement modules.
+# Excludes archive modules, working notes, reviews, checks, plans, briefs, maps, audits, templates, and working TOCs.
+
+manuscript/main_book/01_Start_Here_When_Everything_Feels_Like_Too_Much.md
+manuscript/main_book/02_Why_Life_May_Have_Felt_Harder_Than_It_Looked.md
+manuscript/main_book/03_You_Are_Not_Broken_But_You_May_Be_Overloaded.md
+manuscript/main_book/04_Overload.md
+manuscript/main_book/05_Shutdown.md
+manuscript/main_book/06_Meltdown.md
+manuscript/main_book/07_Burnout.md
+manuscript/main_book/08_The_Cost_of_Masking.md
+manuscript/main_book/09_Sensory_Load.md
+manuscript/main_book/10_Demand_Friction.md
+manuscript/main_book/11_Transitions_Change_and_Being_Thrown_Off.md
+manuscript/main_book/12_Uneven_Skills_Uneven_Days.md
+manuscript/main_book/13_Social_Confusion_and_After_Analysis.md
+manuscript/main_book/14_Rejection_Sensitivity_and_Fear_of_Getting_It_Wrong.md
+manuscript/main_book/15_Food_Body_Basics_and_Keeping_the_Floor_in_Place.md
+manuscript/main_book/16_Environment_Making_Space_Less_Hostile.md
+manuscript/main_book/17_Routines_That_Support_Rather_Than_Trap.md
+manuscript/main_book/18_Planning_Without_Collapse.md
+manuscript/main_book/19_Decisions_Choices_and_Getting_Unstuck.md
+manuscript/main_book/20_Asking_for_Help_Without_Having_to_Perform_Distress.md
+manuscript/main_book/21_Communication_Without_Guesswork.md
+manuscript/main_book/22_Boundaries_Exits_and_Reducing_Damage.md
+manuscript/main_book/23_Repair_Apology_and_Not_Carrying_Everything.md
+manuscript/main_book/24_Friendship_Love_and_Being_Misread.md
+manuscript/main_book/25_Work_School_and_Being_Treated_Fairly.md
+manuscript/main_book/26_Systems_Forms_and_Official_Language.md
+manuscript/main_book/27_Money_Admin_and_Avoiding_Shame_Spirals.md
+manuscript/main_book/28_Health_Appointments_and_Being_Believed.md
+manuscript/main_book/29_Rest_Recovery_and_Not_Earning_Exhaustion.md
+manuscript/main_book/30_Building_a_Life_That_Does_Not_Keep_Breaking_You.md
+manuscript/main_book/31_Pacing_a_Week_Without_Breaking_Yourself.md
+manuscript/main_book/32_When_the_Plan_Goes_Wrong.md
+manuscript/main_book/33_Getting_Help_Without_Giving_Up_Control.md
+manuscript/main_book/34_Keeping_Things_Going_Without_Starting_Over.md
+manuscript/main_book/35_Using_This_Book_Without_Turning_It_Into_Another_Demand.md
+manuscript/tool_supplement/CONTENTS.md
+manuscript/tool_supplement/modules/02_The_Good_Enough_Line.md
+manuscript/tool_supplement/modules/03_The_Next_Safe_Step.md
+manuscript/tool_supplement/modules/06_The_Choice_Shrinker.md
+manuscript/tool_supplement/modules/07_The_Support_Ask.md
+manuscript/tool_supplement/modules/08_Noise_Budget.md
+manuscript/tool_supplement/modules/09_The_Transition_Bridge.md
+manuscript/tool_supplement/modules/10_The_Boundary_Exit_Card.md
+manuscript/tool_supplement/modules/12_The_Quiet_Handover.md

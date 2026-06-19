@@ -39,11 +39,15 @@ manuscript/main_book/33_Getting_Help_Without_Giving_Up_Control.md
 manuscript/main_book/34_Keeping_Things_Going_Without_Starting_Over.md
 manuscript/main_book/35_Using_This_Book_Without_Turning_It_Into_Another_Demand.md
 manuscript/tool_supplement/CONTENTS.md
+manuscript/tool_supplement/modules/01_The_One_Pressure_Check.md
 manuscript/tool_supplement/modules/02_The_Good_Enough_Line.md
 manuscript/tool_supplement/modules/03_The_Next_Safe_Step.md
+manuscript/tool_supplement/modules/04_The_Capacity_Check.md
+manuscript/tool_supplement/modules/05_The_Body_Floor_Check.md
 manuscript/tool_supplement/modules/06_The_Choice_Shrinker.md
 manuscript/tool_supplement/modules/07_The_Support_Ask.md
 manuscript/tool_supplement/modules/08_Noise_Budget.md
 manuscript/tool_supplement/modules/09_The_Transition_Bridge.md
 manuscript/tool_supplement/modules/10_The_Boundary_Exit_Card.md
+manuscript/tool_supplement/modules/11_The_Misread_Map.md
 manuscript/tool_supplement/modules/12_The_Quiet_Handover.md

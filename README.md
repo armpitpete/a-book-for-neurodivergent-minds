@@ -60,3 +60,16 @@ Before using the exported book files:
 DOCX and EPUB proofs should export normally when Pandoc is available.
 
 PDF export also needs a Pandoc PDF engine, such as MiKTeX or TeX Live. If the PDF engine is missing, the runner should warn and continue. That warning is acceptable for now.
+
+### Windows PDF engine note
+
+PDF export needs a Pandoc PDF engine.
+
+On Windows, MiKTeX is a practical choice.
+
+If `pdflatex` is missing, the all-in-one runner should warn and continue.
+
+DOCX and EPUB proofs are still usable without the PDF engine.
+
+This does not block normal proof work.
+

@@ -43,6 +43,18 @@ A missing PDF engine warning is acceptable for now.
 
 Generated files under `build/export/` must not be committed.
 
+### Final proof checklist
+
+Before using the exported book files:
+
+- run `python scripts/check_no_tracked_export_outputs.py`
+- run `python scripts/export_all_proofs.py`
+- check the DOCX opens correctly
+- check the EPUB opens correctly
+- check the PDF if a PDF engine is installed
+- do not commit files under `build/export/`
+- if the proof looks wrong, fix the source manuscript files, not the generated export files
+
 ### PDF note
 
 DOCX and EPUB proofs should export normally when Pandoc is available.

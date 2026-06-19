@@ -28,6 +28,21 @@ build/export/
 
 These generated proof files are outputs. Do not commit them.
 
+### Proof check commands
+
+After pulling `main`, run these commands from the repo root:
+
+    python scripts/check_no_tracked_export_outputs.py
+    python scripts/export_all_proofs.py
+
+The first command checks that generated export files under `build/export/` are not tracked by Git.
+
+The second command runs the full proof/export workflow.
+
+A missing PDF engine warning is acceptable for now.
+
+Generated files under `build/export/` must not be committed.
+
 ### PDF note
 
 DOCX and EPUB proofs should export normally when Pandoc is available.

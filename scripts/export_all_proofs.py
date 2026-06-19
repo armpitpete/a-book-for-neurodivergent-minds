@@ -28,6 +28,7 @@ PROOF_STEPS = (
     ProofStep("Final book export check", "final_book_export_check.py"),
     ProofStep("Combined book structure check", "check_combined_book_structure.py"),
     ProofStep("H1 top-level order check", "check_h1_top_level_order.py"),
+    ProofStep("Generated export tracking check", "check_no_tracked_export_outputs.py"),
     ProofStep("DOCX proof export", "export_clean_docx.py"),
     ProofStep("EPUB proof export", "export_clean_epub.py"),
     ProofStep("PDF proof export", "export_clean_pdf.py", optional_pdf_engine=True),

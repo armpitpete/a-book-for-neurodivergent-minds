@@ -6,6 +6,7 @@ import re
 from export_strip_frontmatter import OUTPUT_DIR as CLEAN_MARKDOWN_DIR
 from export_strip_frontmatter import SOURCE_DIR
 from export_strip_frontmatter import export_clean_markdown
+from validate_book_order import validate_book_order
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -112,7 +113,23 @@ def find_clean_markdown_files() -> list[Path]:
     return sorted(CLEAN_MARKDOWN_DIR.rglob("*.md"), key=natural_sort_key)
 
 
+
+def validate_manifest_preflight() -> None:
+    if not BOOK_ORDER_MANIFEST.exists():
+        return
+
+    errors = validate_book_order(BOOK_ORDER_MANIFEST)
+
+    if errors:
+        raise SystemExit(
+            "Book order manifest validation failed:\n- " + "\n- ".join(errors)
+        )
+
+    print(f"Validated book order manifest: {BOOK_ORDER_MANIFEST}")
+
+
 def combine_clean_markdown() -> None:
+    validate_manifest_preflight()
     export_clean_markdown()
 
     markdown_files = find_clean_markdown_files()

@@ -1,6 +1,7 @@
 # Book order manifest
 # Reader-facing manuscript files only.
-# Working notes, reviews, checks, plans, briefs, maps, audits, templates, and working TOCs are excluded.
+# Includes main chapters, supplement contents, and current supplement modules.
+# Excludes archive modules, working notes, reviews, checks, plans, briefs, maps, audits, templates, and working TOCs.
 
 manuscript/main_book/01_Start_Here_When_Everything_Feels_Like_Too_Much.md
 manuscript/main_book/02_Why_Life_May_Have_Felt_Harder_Than_It_Looked.md
@@ -37,17 +38,7 @@ manuscript/main_book/32_When_the_Plan_Goes_Wrong.md
 manuscript/main_book/33_Getting_Help_Without_Giving_Up_Control.md
 manuscript/main_book/34_Keeping_Things_Going_Without_Starting_Over.md
 manuscript/main_book/35_Using_This_Book_Without_Turning_It_Into_Another_Demand.md
-manuscript/tool_supplement/archive_old_modules/01_Pre-Signal.md
-manuscript/tool_supplement/archive_old_modules/02_Exit_Early.md
-manuscript/tool_supplement/archive_old_modules/03_Boring_Bounded.md
-manuscript/tool_supplement/archive_old_modules/04_Repair_in_Four_Lines.md
-manuscript/tool_supplement/archive_old_modules/05_First_Stupid_Step.md
-manuscript/tool_supplement/archive_old_modules/06_Switch_the_Door.md
-manuscript/tool_supplement/archive_old_modules/07_One_Thing_Ticket.md
-manuscript/tool_supplement/archive_old_modules/09_Truth_Without_Explaining.md
-manuscript/tool_supplement/archive_old_modules/10_Aftercare_Loop.md
 manuscript/tool_supplement/CONTENTS.md
-manuscript/tool_supplement/LOCAL_TOOL_INVENTORY_TASK.md
 manuscript/tool_supplement/modules/02_The_Good_Enough_Line.md
 manuscript/tool_supplement/modules/03_The_Next_Safe_Step.md
 manuscript/tool_supplement/modules/06_The_Choice_Shrinker.md
@@ -56,4 +47,3 @@ manuscript/tool_supplement/modules/08_Noise_Budget.md
 manuscript/tool_supplement/modules/09_The_Transition_Bridge.md
 manuscript/tool_supplement/modules/10_The_Boundary_Exit_Card.md
 manuscript/tool_supplement/modules/12_The_Quiet_Handover.md
-manuscript/tool_supplement/TOOL_SPINE.md

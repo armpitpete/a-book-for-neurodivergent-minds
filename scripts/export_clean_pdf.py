@@ -4,6 +4,7 @@ import shutil
 import subprocess
 from pathlib import Path
 
+from build_export_ready_markdown import build_export_ready_markdown
 from export_combined_clean_markdown import COMBINED_OUTPUT_PATH
 from final_book_export_check import main as run_final_book_export_check
 
@@ -44,14 +45,17 @@ def run_preflight() -> None:
 def export_pdf() -> None:
     pandoc_path = require_pandoc()
     require_combined_markdown()
+    export_ready_path = build_export_ready_markdown()
 
     PDF_OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
 
     command = [
         pandoc_path,
-        str(COMBINED_OUTPUT_PATH),
+        str(export_ready_path),
         "-o",
         str(PDF_OUTPUT_PATH),
+        "--metadata",
+        "title=A Book for Neurodivergent Minds",
     ]
 
     subprocess.run(command, check=True)

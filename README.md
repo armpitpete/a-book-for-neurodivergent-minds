@@ -16,6 +16,7 @@ It checks:
 - combined clean Markdown export
 - combined book structure
 - H1 top-level order
+- export-ready Markdown with Contents and page breaks
 - DOCX proof export
 - EPUB proof export
 - PDF proof export, if a PDF engine is available
@@ -27,6 +28,12 @@ build/export/
 ```
 
 These generated proof files are outputs. Do not commit them.
+
+For the full operator checklist, see:
+
+```text
+docs/proof-export-manual.md
+```
 
 ### Proof check commands
 
@@ -43,6 +50,25 @@ A missing PDF engine warning is acceptable for now.
 
 Generated files under `build/export/` must not be committed.
 
+### Export-ready Markdown
+
+The proof workflow now builds an export-ready Markdown file before creating DOCX, EPUB, and PDF proofs.
+
+This generated helper file adds:
+
+- Contents page
+- chapter anchors
+- page breaks before top-level chapters and tools
+- export metadata used by the proof formats
+
+Expected generated helper file:
+
+```text
+build/export/A_Book_for_Neurodivergent_Minds_export_ready.md
+```
+
+Do not commit this file.
+
 ### Final proof checklist
 
 Before using the exported book files:
@@ -52,6 +78,8 @@ Before using the exported book files:
 - check the DOCX opens correctly
 - check the EPUB opens correctly
 - check the PDF if a PDF engine is installed
+- check that Contents appears
+- check that chapters and tools start on new pages
 - do not commit files under `build/export/`
 - if the proof looks wrong, fix the source manuscript files, not the generated export files
 
@@ -72,4 +100,3 @@ If `pdflatex` is missing, the all-in-one runner should warn and continue.
 DOCX and EPUB proofs are still usable without the PDF engine.
 
 This does not block normal proof work.
-
